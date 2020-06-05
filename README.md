@@ -1,2 +1,0 @@
-# covidgilance
-Covidgilance website
