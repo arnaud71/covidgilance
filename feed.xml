@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Covidgilance</title>
-    <link href="https://arnaud71.github.io/covidgilance/feed.xml" rel="self" />
-    <link href="https://arnaud71.github.io/covidgilance" />
-    <updated>2020-06-07T21:07:30+02:00</updated>
+    <link href="https://covidgilance.org/feed.xml" rel="self" />
+    <link href="https://covidgilance.org" />
+    <updated>2020-06-07T21:30:17+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
-    <id>https://arnaud71.github.io/covidgilance</id>
+    <id>https://covidgilance.org</id>
 
     <entry>
         <title>Test carte</title>
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://arnaud71.github.io/covidgilance/test-carte.html"/>
-        <id>https://arnaud71.github.io/covidgilance/test-carte.html</id>
+        <link href="https://covidgilance.org/test-carte.html"/>
+        <id>https://covidgilance.org/test-carte.html</id>
 
         <updated>2020-06-05T10:10:32+02:00</updated>
             <summary></summary>
@@ -32,8 +32,8 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://arnaud71.github.io/covidgilance/test.html"/>
-        <id>https://arnaud71.github.io/covidgilance/test.html</id>
+        <link href="https://covidgilance.org/test.html"/>
+        <id>https://covidgilance.org/test.html</id>
 
         <updated>2020-06-04T22:25:17+02:00</updated>
             <summary></summary>
@@ -50,8 +50,8 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://arnaud71.github.io/covidgilance/les-resultats.html"/>
-        <id>https://arnaud71.github.io/covidgilance/les-resultats.html</id>
+        <link href="https://covidgilance.org/les-resultats.html"/>
+        <id>https://covidgilance.org/les-resultats.html</id>
 
         <updated>2020-06-04T17:51:42+02:00</updated>
             <summary>
@@ -70,8 +70,8 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://arnaud71.github.io/covidgilance/les-explications.html"/>
-        <id>https://arnaud71.github.io/covidgilance/les-explications.html</id>
+        <link href="https://covidgilance.org/les-explications.html"/>
+        <id>https://covidgilance.org/les-explications.html</id>
 
         <updated>2020-06-04T17:50:51+02:00</updated>
             <summary>
@@ -90,8 +90,8 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://arnaud71.github.io/covidgilance/contact.html"/>
-        <id>https://arnaud71.github.io/covidgilance/contact.html</id>
+        <link href="https://covidgilance.org/contact.html"/>
+        <id>https://covidgilance.org/contact.html</id>
 
         <updated>2020-06-04T17:45:53+02:00</updated>
             <summary>
@@ -110,8 +110,8 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://arnaud71.github.io/covidgilance/covidgilance.html"/>
-        <id>https://arnaud71.github.io/covidgilance/covidgilance.html</id>
+        <link href="https://covidgilance.org/covidgilance.html"/>
+        <id>https://covidgilance.org/covidgilance.html</id>
             <category term="page"/>
 
         <updated>2020-06-05T18:41:46+02:00</updated>
