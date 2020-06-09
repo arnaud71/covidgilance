@@ -3,12 +3,178 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-06-08T21:55:29+02:00</updated>
+    <updated>2020-06-09T18:15:42+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
+    <entry>
+        <title>Covidgilance</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/covidgilance-3.html"/>
+        <id>https://covidgilance.org/covidgilance-3.html</id>
+
+        <updated>2020-06-09T18:00:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/11/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="" />
+                    Covidgilance vise à explorer le développement d'un outil de veille épidémiologique complémentaire aux méthodes de surveillance épidémiologique classiques, basé sur l’exploitation des données issues des requêtes de moteurs de recherche (Google Trends) et des visites de pages santé de références (Analytique Web). L’idée est de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/11/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="" />
+                <p class="dropcap">Covidgilance vise à explorer le développement d'un outil de veille épidémiologique complémentaire aux méthodes de surveillance épidémiologique classiques, basé sur l’exploitation des données issues des requêtes de moteurs de recherche (Google Trends) et des visites de pages santé de références (Analytique Web). L’idée est de partager ces informations inédites et objectives comme indicateur de tendance de prévalence pour étudier la réalité, accompagner le déconfinement et possiblement mieux anticiper de nouvelles crises.</p>
+<p>Plus de <a href="https://covidgilance.org/la-genese-2.html">détail sur le projet Covidgilance</a>!</p>
+<p>Vous êtes un site de santé et <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">vous voulez participer</a>!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Appel à participation auprès des sites de santé</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html"/>
+        <id>https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html</id>
+            <category term="blog"/>
+
+        <updated>2020-06-09T15:48:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/10/nasa-Q1p7bh3SHj8-unsplash.jpg" alt="Image illustrative de la NASA de l&#x27;activité lumineuse sur la terre " />
+                    Durée de lecture : 2 mn Quoi ? Nous avons besoin de la participations des site de santé pour améliorer la qualité de notre approche. Comment ? En partageant vos données d'analytique Web de type Google Analytique. Qui ? Seuls, les sites de santé proposant&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/10/nasa-Q1p7bh3SHj8-unsplash.jpg" alt="Image illustrative de la NASA de l&#x27;activité lumineuse sur la terre " />
+                <p class="msg msg--info">Durée de lecture : 2 mn</p>
+<p><strong>Quoi ?</strong></p>
+<p>Nous avons besoin de la participations des site de santé pour améliorer la qualité de notre approche.</p>
+<p><strong>Comment ?</strong></p>
+<p>En partageant vos données d'analytique Web de type Google Analytique.</p>
+<p><strong>Qui ?</strong></p>
+<p>Seuls, les sites de santé proposant des informations sur les signes et symptôme (e.g. fièvres, toux, ..., douleurs au thorax) peuvent nous aider. Voici une liste non exhaustive des sites les plus pertinents pour ce projet de recherche avec quelques liens vers les page liées à la "fièvre" : <a href="https://www.planetesante.ch/Symptomes/J-ai-de-la-fievre" target="_blank" rel="noopener noreferrer">planetesante.ch </a>, <a href="https://www.santemagazine.fr/sante/maladies/fievre-a-quelle-temperature-faut-il-sinquieter-170622" target="_blank" rel="noopener noreferrer">santemagazine.fr</a>,  <a href="https://www.creapharma.ch/fievre.htm" target="_blank" rel="noopener noreferrer">creapharma.ch</a>,  doctissimo.fr, santeromande.ch, www.hon.ch ... et même en anglais medlineplus.gov ...</p>
+<p><strong>De quelles données parle t-on ?</strong></p>
+<p>Nous parlons des fréquentations géolocalisées des pages de signes et symptômes tel que par exemple  une page sur la fièvre (voir les liens de la section Qui pour les exemples).</p>
+<p>Il pourrait être interessant d'obtenir les données sociologiques données par Google (âge, sexe ...) mais ces données devront être discuté plus en détail avec les partenaires.</p>
+<p><strong>Sur quelle durée ?</strong></p>
+<p>Au minimum 1 an avant l'événement lié à la pandémie du Coronavirus, jusqu'à la fin du projet de recherche (septembre 2020). Toute prolongation sera discutés.</p>
+<p><strong>Y-a-t-il un problème de confidentialité par rapport aux données de mes utilisateurs ?</strong></p>
+<p>Aucune données personnelles ne seront accédées, traitées et diffusées  par nos chercheurs et nos outils. Seules les données de groupe nous intéressent, avec au pire une précision de l'ordre de la ville (mais nous pouvons nous limiter au niveau de la région/canton ou du pays, si nécéssaire). Il sera aussi possible de ne pas transmettre le noms des partenaires.  Un accord de non divulgation pourra être signé si besoin.</p>
+<p><strong>Comment seront utilisé ces données ?</strong></p>
+<p>Les données seront normalisées, agrégées, analysées et mises en valeurs avec les autres sites partenaires et éventuellement redistribuées selon le consentement des partenaires.</p>
+<p><strong>Quoi encore ?</strong></p>
+<p>Nous planifions d'avoir nos propres pages de signes et symptômes et des les partager. Cependant, le site étant récent, il y a très peu de chance qu'il soit visible dans les premiers résultats des moteurs de recherche. D'ailleurs un site Web partenaire ayant une forte popularité pour héberger ces pages serait le bienvenu.</p>
+<p><strong>Mon site est-il trop petit pour participé ?</strong></p>
+<p>Le Web est décentralisé par nature, c'est l'unification de nos forces qui va nous rendre pertinent. Les petits sites de santés sont bienvenus. </p>
+<p><strong>Quels avantages pour mon site de santé ?</strong></p>
+<ul>
+<li>Participer à un projet de recherche et être cité ou pas, sans aucune  promesse de médiatisation</li>
+<li>Participer à la lutte contre le corononavirus et possiblement les prochaines pandémies</li>
+<li>Apprendre des nouvelles choses auprès de chercheurs</li>
+<li>Apprendre à mieux maitriser votre analytique Web et comprendre les bonnes pratiques</li>
+<li>Aucun risque</li>
+</ul>
+<p><strong>Je suis super motivé que dois je faire ?</strong></p>
+<p>Me contacter <a href="mailto:arnaud.gaudinat@hesge.ch">arnaud.gaudinat@hesge.ch</a>, afin de discuter de la meilleure façon de partager l'analytique de certaines de vos pages.</p>
+<p>Pour plus d'informations :</p>
+<ul>
+<li><a href="#non-existing-post-with-id-7">La description plus détaillé du projet</a></li>
+<li><a href="https://covidgilance.org/contact.html">Les contacts</a></li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>La genèse</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/la-genese-2.html"/>
+        <id>https://covidgilance.org/la-genese-2.html</id>
+            <category term="blog"/>
+
+        <updated>2020-06-09T18:14:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/9/ben-o-bro-87oQ_cUO1Ns-unsplash.jpg" alt="image illustrative des feux d&#x27;artifices sur le lac de Genève depuis les toits " />
+                    Durée de lecture : 5 mn Au vu du manque de réactivité de nos instances sanitaires et gouvernementales, les méthodes de surveillance épidémiologique classique, bien qu’indispensable, ne semblent pas être adaptées pour des crises telles que covid-19. Nous proposons une approche complémentaire de vigilance épidémiologique&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/9/ben-o-bro-87oQ_cUO1Ns-unsplash.jpg" alt="image illustrative des feux d&#x27;artifices sur le lac de Genève depuis les toits " />
+                <p class="msg msg--info">Durée de lecture : 5 mn</p>
+<h2>Résumé</h2>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p>Au vu du manque de réactivité de nos instances sanitaires et gouvernementales, les méthodes de surveillance épidémiologique classique, bien qu’indispensable, ne semblent pas être adaptées pour des crises telles que covid-19. Nous proposons une approche complémentaire de vigilance épidémiologique localisée, basée sur des traces de prodromes numériques issues des requêtes de moteurs de recherche d’une part et des visites de pages de référence idoines d’autre part. Google trends nous permet d’étudier les tendances des requêtes dans Google de façon longitudinale avec une précision de localisation au niveau des pays, des régions et des villes [1-3]. En effet, la surveillance de simples mots clés relatifs aux symptômes de la maladie tel que « fièvre » ou encore des mots reliés tel que « thermomètre » sont significativement marquée pour la crise du covid-19 dans Google Trends.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://covidgilance.org/media/posts/9/gallery/fievre-2020-monde.jpg" ><img src="https://covidgilance.org/media/posts/9/gallery/fievre-2020-monde-thumbnail.jpg" alt="" width="720" height="326"></a>
+<figcaption>Google Trends du sujet "fièvre" dans le monde</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://covidgilance.org/media/posts/9/gallery/fievre-2020-suisse.jpg" ><img src="https://covidgilance.org/media/posts/9/gallery/fievre-2020-suisse-thumbnail.jpg" alt="" width="720" height="332"></a>
+<figcaption>Google Trends du sujet "fièvre" en Suisse</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://covidgilance.org/media/posts/9/gallery/thermometre-2020-monde.jpg" ><img src="https://covidgilance.org/media/posts/9/gallery/thermometre-2020-monde-thumbnail.jpg" alt="" width="720" height="331"></a>
+<figcaption>Google Trends du sujet "Thermomètre" dans le monde</figcaption>
+</figure>
+</div>
+<p>Pour compléter cette ressource, nous proposons une approche innovante de partage de statistiques géolocalisées et anonymisées de visites de pages de sites de santés qui permettront de connaitre par exemple que la page « fièvre » a été visité par une région en particulier. Les résultats seront accessibles via un site Web qui proposera des cartes interactives et un export des données, ainsi que la possibilité aux sites de santé de participer aux partages d’analytique Web. L’idée est de partager ces informations inédites et objectives comme indicateur de tendance de prévalence pour étudier la réalité, accompagner le déconfinement et possiblement mieux anticiper de nouvelles crises, cependant les limitations méthodologiques seront évaluées.</p>
+</div>
+</div>
+</div>
+<h2 id="problmatique">Problématique</h2>
+<p>La grande majorité des gouvernements et l’OMS ont été pris de cours par l’épidémie de COVID-19 pour différentes raisons. Les méthodes de surveillance épidémiologique courantes aussi bien internationale que nationale, bien qu’indispensables, ont montré des lacunes. Ces méthodes se base sur des cas avérés qui par définition apparaissent lorsque la crise est déjà installée et prenne du temps à remonter au décideur surtout en période de crise où l’urgence est la prise en charge des malades. Au niveau international on peut aussi douter de l’objectivité de certains chiffres nationaux qui rende plus difficile la lecture de la réalité et donc l’anticipation éclairée.<br>Bien que maintenant consciente les instances sanitaires baseront principalement leurs décisions futures sur les mêmes approches pour réaliser là où les phases de déconfinement avec un retard dû au temps de récolte d’information. À l’ère numérique, on annonce des systèmes de traçage fins et anonymes sur smartphone qui pourront accompagner le déconfinement. Cette approche semble pertinente, mais ne sera certainement pas suffisante pour différentes raisons tels que le risque de non-compliance, la défiance, la problématique de la fracture numérique ou encore le risque de manipulation.</p>
+<p>Hypothèse qui guide cette recherche :</p>
+<blockquote class="blockquote">Les données issues de Google Trends et/ou de l’analytique Web permettent de détecter les premiers signes et la progression d’une épidémie avec une granularité satisfaisante.</blockquote>
+<h2 id="mthodologie">Méthodologie</h2>
+<p>Les mots clés « signaux » permettant d’identifier potentiellement un individu porteur ou un foyer familial seront identifier grâce notamment à la<strong> liste des symptôme</strong> du covid-19 (d’autres sources peuvent être envisagées telles que Google Suggest, Google Trends ou des <a href="https://fr.wikipedia.org/wiki/Word_embedding" target="_blank" rel="noopener noreferrer">wordembedding</a>s sur les tweets ou média relatant le covid-19).<br>Ces mots seront validés par l’utilisation de Google Trends pour mesurer les déviations de tendances de requêtes par rapport à la normale avec un seuil qu’il reste à identifier. Ensuite, chaque mot clé sera utilisé pour récupérer les tendances historiques longues ainsi que les tendances sur 2 ou 3 jours pendant la durée de la crise pour une zone particulière. Par exemple pour la Suisse il sera possible d’obtenir une gradation originale et plus fine de la distribution du terme <strong>« fièvre »</strong> en fonction de chaque canton. Ainsi chaque mot clé considéré générera un dataset inédit de tendance localisé au jour le jour.<br>Pour les petites zones géographique, comme Google Trend ne garde qu’un échantillon de toutes les requêtes, il est préférable de combiner cette information avec une autre information inédite. Cette nouvelle source est le nombre d’accès aux pages d’information proposant une description des mots clés signaux, comme par exemple la page « fièvre » de Wikipedia » qui suit les tendances de Google Trends [4]. Comme 80% des sites Web utilisent Google Analytics, il sera demandé aux sites partenaires tels que HON, de partager (via API) les provenances géographiques, voir même démographique de ces pages signales. Notre hypothèse est qu’au vu de la situation de crise, d’autres sites de santé partenaires seront nombreux à nous donner suffisamment de données significatives et générer un cercle vertueux de partage d’analytique.<br>Des résultats de tendance de certains pays seront comparés avec les sources officielles pour valider notre approche.</p>
+<h2>Les limitations de l'approche</h2>
+<ul>
+<li>L'échantillonnage de Google
+<ul>
+<li>Google ne garde pas toutes les requêtes  dans Google Trends</li>
+</ul>
+</li>
+<li>La normalisation opéré par Google
+<ul>
+<li>de 0 à 100 par rapport à la valeur maximum étudiée</li>
+</ul>
+</li>
+<li>Représentativité sur Internet
+<ul>
+<li>Tous le monde n'utilise pas Internet et Google</li>
+</ul>
+</li>
+<li>L'ambiguïté en langage naturel et les causes de recherche d'information différents
+<ul>
+<li>"Fièvre" et "Fièvre du samedi soir"</li>
+</ul>
+</li>
+<li>L'influence médiatique</li>
+</ul>
+<h2>Références</h2>
+<ol>
+<li>Choi, H., &amp; Varian, H. (2012). Predicting the present with Google Trends. Economic record, 88, 2- 9.</li>
+<li>Dugas, A. F., Hsieh, Y. H., Levin, S. R., Pines, J. M., Mareiniss, D. P., Mohareb, A., ... &amp; Rothman, R. E. (2012). Google Flu Trends: correlation with emergency department influenza rates and crowding metrics. Clinical infectious diseases, 54(4), 463-469. </li>
+<li>Arora, V. S., McKee, M., &amp; Stuckler, D. (2019). Google Trends: opportunities and limitations in health and health policy research. Health Policy, 123(3), 338-341. </li>
+<li>Brigo, F., Igwe, S. C., Nardone, R., Lochner, P., Tezzon, F., &amp; Otte, W. M. (2015). Wikipedia and neurological disorders. Journal of clinical neuroscience, 22(7), 1170-1172. </li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contact</title>
         <author>
@@ -17,37 +183,17 @@
         <link href="https://covidgilance.org/contact.html"/>
         <id>https://covidgilance.org/contact.html</id>
 
-        <updated>2020-06-04T17:45:53+02:00</updated>
+        <updated>2020-06-09T17:52:46+02:00</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591284729350,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284736639,"type":"publii-paragraph","content":"Contact","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284754080,"type":"publii-header","content":"Contact","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"contact"}}},{"id":1591284756791,"type":"publii-paragraph","content":"email : arnaud.gaudinat@hesge.ch&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284812015,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                        <img src="https://covidgilance.org/media/posts/2/natalie-pedigo-wJK9eTiEZHY-unsplash.jpg" alt="" />
+                    [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591646482591,"type":"publii-list","content":"Gaudinat Arnaud est professeur associé en science de l’information depuis 2016 à la HEG Genève. Il enseigne la webométrie et réalise des recherches sur le Web à partir de méthodes de Web Mining. Ceci, lui permet de collecter des données originales et d’allier analyse de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591284729350,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284736639,"type":"publii-paragraph","content":"Contact","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284754080,"type":"publii-header","content":"Contact","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"contact"}}},{"id":1591284756791,"type":"publii-paragraph","content":"email : arnaud.gaudinat@hesge.ch&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284812015,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Covidgilance</title>
-        <author>
-            <name>Arnaud Gaudinat</name>
-        </author>
-        <link href="https://covidgilance.org/covidgilance.html"/>
-        <id>https://covidgilance.org/covidgilance.html</id>
-
-        <updated>2020-06-08T21:32:48+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://covidgilance.org/media/posts/1/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="Photo illustrative du monde avec les points chauds de l&#x27;activité du Covid" />
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"Covidgilance vise à explorer le développement d'un outil de veille épidémiologique complémentaire aux méthodes de surveillance épidémiologique classiques, basé sur l’exploitation des données issues des requêtes de moteurs de recherche (Google Trends) et des visites de pages santé de références (Analytique Web). L’idée est de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://covidgilance.org/media/posts/1/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="Photo illustrative du monde avec les points chauds de l&#x27;activité du Covid" />
-                [{"id":1555941466744,"type":"publii-paragraph","content":"Covidgilance vise à explorer le développement d'un outil de veille épidémiologique complémentaire aux méthodes de surveillance épidémiologique classiques, basé sur l’exploitation des données issues des requêtes de moteurs de recherche (Google Trends) et des visites de pages santé de références (Analytique Web). L’idée est de partager ces informations inédites et objectives comme indicateur de tendance de prévalence pour étudier la réalité, accompagner le déconfinement et possiblement mieux anticiper de nouvelles crises.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                    <img src="https://covidgilance.org/media/posts/2/natalie-pedigo-wJK9eTiEZHY-unsplash.jpg" alt="" />
+                [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591646482591,"type":"publii-list","content":"<li><strong>Gaudinat Arnaud </strong>est professeur associé en science de l’information depuis 2016 à la HEG Genève. Il enseigne la webométrie et réalise des recherches sur le Web à partir de méthodes de Web Mining. Ceci, lui permet de collecter des données originales et d’allier analyse de données structurées et non structurés pour l’aide à la décision éclairée. Auparavant, il a oeuvré pendant 10 ans dans l’information médicale au sein de la fondation Health On the Net.</li><li><b>Christophe Lebrun</b>, est collaborateur scientifique et data scientist à la HEG. Il développe actuellement des approches automatiques originales pour explorer le Web à la découverte d’échantillon de populations types pour répondre à des enquêtes. Il est titulaire du master en data science et machine learning CentraleSupélec.<br></li><li><b>Berger Bastien</b>, est assistant HES à la HEG. Titulaire d’un bachelor en science informatique de l’université de Genève, il accompagne depuis plus de 4 ans le professeur A. Gaudinat dans ses recherches et notamment dans le Web mining de données massives.<br></li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1591646531322,"type":"publii-paragraph","content":"<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284754080,"type":"publii-header","content":"Contact","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"contact"}}},{"id":1591284756791,"type":"publii-paragraph","content":"email : arnaud.gaudinat@hesge.ch&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591646616149,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
