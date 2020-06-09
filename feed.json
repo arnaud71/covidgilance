@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://covidgilance.org/les-partenaires.html",
+            "url": "https://covidgilance.org/les-partenaires.html",
+            "title": "Les partenaires",
+            "summary": "Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur analytique Web pour aider en la détection de signaux, voir l'appel à participation. Soyez le premier à participer, les sites seront cités par ordre d'acceptation.",
+            "content_html": "<p>Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur  analytique Web pour aider en la détection de signaux, <a href=\"https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html\">voir l'appel à participation</a>.</p>\n<p>Soyez le premier à participer, les sites seront cités par ordre d'acceptation.</p>",
+            "image": "https://covidgilance.org/media/posts/12/aubrey-rose-odom-T1L9Q5g7eIQ-unsplash.jpg",
+            "author": {
+                "name": "Arnaud Gaudinat"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-09T22:02:54+02:00",
+            "date_modified": "2020-06-09T22:08:25+02:00"
+        },
+        {
             "id": "https://covidgilance.org/covidgilance-3.html",
             "url": "https://covidgilance.org/covidgilance-3.html",
             "title": "Covidgilance",

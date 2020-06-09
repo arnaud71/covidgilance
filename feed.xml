@@ -3,12 +3,35 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-06-09T21:43:48+02:00</updated>
+    <updated>2020-06-09T22:09:49+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
+    <entry>
+        <title>Les partenaires</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/les-partenaires.html"/>
+        <id>https://covidgilance.org/les-partenaires.html</id>
+
+        <updated>2020-06-09T22:08:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/12/aubrey-rose-odom-T1L9Q5g7eIQ-unsplash.jpg" alt="" />
+                    Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur analytique Web pour aider en la détection de signaux, voir l'appel à participation. Soyez le premier à participer, les sites seront cités par ordre d'acceptation.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/12/aubrey-rose-odom-T1L9Q5g7eIQ-unsplash.jpg" alt="" />
+                <p>Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur  analytique Web pour aider en la détection de signaux, <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">voir l'appel à participation</a>.</p>
+<p>Soyez le premier à participer, les sites seront cités par ordre d'acceptation.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Covidgilance</title>
         <author>
