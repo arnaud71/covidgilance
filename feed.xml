@@ -3,12 +3,49 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-06-10T11:02:18+02:00</updated>
+    <updated>2020-06-10T15:46:59+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
+    <entry>
+        <title>Calendrier</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/calendrier.html"/>
+        <id>https://covidgilance.org/calendrier.html</id>
+
+        <updated>2020-06-10T15:46:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Étape 1 : Recherche et vérification des signaux dans Google Trends (juin 2020) Étape 2: Extractions des tendances des signaux villes, régions, pays et continents (juillet 2020) Les développements futurs :Intégration des réseaux sociaux comme TwitterAugmentation de la couverture linguistique (Anglais, Allemand, Italien, Espagnol et&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>
+<p class="p1">Étape <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">1 : Recherche et vérification des signaux dans Google Trends (juin 2020)</span></p>
+</li>
+<li>
+<p class="p1"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Étape 2: Extractions des tendances des signaux villes, régions, pays et continents (juillet 2020)</span></p>
+</li>
+<li>Étape 3<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> : </span>Réalisations de DataViz géolocalisées et de dataset dynamique (aout 2020)</li>
+<li>Étape 4<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> : </span> Mise en place d'une initiative de partage ouvert d'analytique Web géolocalisés complémentaires (septembre 2020)</li>
+<li>Étape 5<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> : </span>Validation et comparaison de l'approche avec les cas réels (septembre 2020)</li>
+</ul>
+<p>Les développements futurs :</p>
+<ul>
+<li>Intégration des réseaux sociaux comme Twitter</li>
+<li>Augmentation de la couverture linguistique (Anglais, Allemand, Italien, Espagnol et Chinois)</li>
+<li>Intégration des autres moteurs de recherches et de leurs données de tendances (Baidu, Yandex et Bing)</li>
+<li>Ajout de ses propres pages de signaux pour l'analytique Web précis</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Les partenaires</title>
         <author>
