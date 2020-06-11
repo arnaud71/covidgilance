@@ -3,12 +3,69 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-06-10T15:46:59+02:00</updated>
+    <updated>2020-06-11T13:56:00+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
+    <entry>
+        <title>Le coronavirus circulait déjà à Wuhan dès octobre 2019 selon l&#x27;université de Harvard</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html"/>
+        <id>https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html</id>
+            <category term="blog"/>
+
+        <updated>2020-06-11T13:54:59+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/14/clay-banks-U0-r0JMypE0-unsplash.jpg" alt="" />
+                    Durée de lecture : 4 mn Une étude de la haute école de médecine de Harvard (appelé article d'Harvard par la suite) suggère que le coronavirus circulait déjà à Wuhan en octobre 2019. Les auteurs se basent sur deux sources d'informations : les images satellitaires&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/14/clay-banks-U0-r0JMypE0-unsplash.jpg" alt="" />
+                <p class="msg msg--info">Durée de lecture : 4 mn</p>
+<p><a href="https://dash.harvard.edu/bitstream/handle/1/42669767/Satellite_Images_Baidu_COVID19_manuscript_DASH.pdf?sequence=3&amp;isAllowed=y">Une étude de la haute école de médecine de Harvard</a> (appelé article d'Harvard par la suite) suggère que le coronavirus circulait déjà à Wuhan en octobre 2019. Les auteurs se basent sur deux sources d'informations : les images satellitaires dans la région de Wuhan et les tendances des requêtes  dans le moteur de recherche Baidu qui est le Google des Chinois avec plus 80% de parts parmi les autres moteurs de recherche.</p>
+<h2>La vérité des images satellites</h2>
+<p>Selon les auteurs, les images satellites montrent un taux d'occupation élevé des places de parking autour des hôpitaux de Wuhan dès octobre 2019, donc bien avant les déclarations des autorités chinoises (7 janvier 2020).</p>
+<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/Capture-decran-2020-06-10-a-22.23.48-3.jpg" alt="" width="1598" height="438">
+<figcaption >Figure 1: Images satellites montrant une occupation plus importante des parkings de l'hôpital de Tianyou à Wuhan en  octobre 2019 par rapport à l'année précédente et le mois du confinement selon l'article d'Harvard (les images du marché aux produits de la mer en dessous ont été rognées ici pour simplification)</figcaption>
+</figure>
+<p>S'il existe une différence évidente dans la figure 1, entre octobre 2019 et février 2020 (dû au confinement). La différence entre octobre 2018 et octobre 2019 semble, en tout cas sur ces deux images, moins évidente.  </p>
+<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/Capture-decran-2020-06-11-a-13.07.02.jpg" alt="" width="975" height="321">
+<figcaption >La figure 2 : Trafic autour de différents hôpitaux à Wuhan entre 2018-2020 à partir d'images satellites (selon l'article d'Harvard)</figcaption>
+</figure>
+<p>La figure 2 permet d'observer le trafic autour de plusieurs hôpitaux de Wuhan avec des pics vers octobre (pour deux hôpitaux semble-t-il), mais avec une forte volatilité qui rend la figure difficilement interprétable surtout sur une période longue.</p>
+<h2>La vérité des tendances selon Baidu</h2>
+<p>Dans le cas des tendances de Baidu, la méthode est celle plébiscitée par Covidgilance. Les auteurs ont étudié deux symptômes présents chez les patients atteints de covid-19 dès octobre 2019, comme vous pouvez le voir dans la figure 3, suivante :</p>
+<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/Capture-decran-2020-06-10-a-16.03.34.jpg" alt="bla" width="1370" height="482">
+<figcaption >Figure 3 :Tendances 2018-2020 selon Baidu du signal  "toux" et de "diarrhée" (selon l'article d'Harvard)</figcaption>
+</figure>
+<p>Les auteurs soulignent que 'cough' (la toux) est un symptôme saisonnier qu'il est difficile de prendre en compte pour justifier leur hypothèse. Cependant, il est visible que même ce symptôme saisonnier est pertinent vers janvier 2020 (ici, on regrettera le manque de précision de l'échelle des abscisses).</p>
+<p>Les auteurs soulignent que 'diarrhea' (diarrhée) est un symptôme beaucoup plus pertinent puisque non saisonnier, ce qui est vrai. Il est aussi visible que ce signal est pertinent aussi vers janvier 2020. Cependant, l'interprétation en tant que signal faible dès octobre est possible, mais discutable. En effet, même s'il est non saisonnier pourquoi avoir choisi un symptôme peu fréquent (selon OFSP) comme diarrhée ?  De plus d'après nos premières expériences ce signal ne semble pas le plus marqué par rapport à d'autres (en tout cas en France) :</p>
+<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/French-Trend-Covid-Signal-5-ans.jpeg" alt="Google Trends pour quelques symptôme du covid-19" width="1051" height="650">
+<figcaption >Figure 4 : Recomposition des tendances de Google Trends relatives par rapport à leurs maximums, en France sur 5 ans (2015 à 2020) pour les sujets* "Agueusie", "Fièvre", "Toux" et "Diarrhée"**</figcaption>
+</figure>
+<p>Un zoom sur la période de la crise de janvier à fin mai permet de constater que le signal induit en France par les requêtes sur le sujet* "Diarrhée" n'est pas le plus pertinent et que le signal du sujet "Agueusie" est le plus marqué pour une même date de pic d'activité. Les deux autres signaux que sont les sujets "Toux" et "Fièvre" apparaissent aussi plus marqués que le signal "Diarrhée" et surtout la croissance forte commence une dizaine de jours avant.  </p>
+<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/jan-mai-2020-fr.jpeg" alt="" width="1051" height="650">
+<figcaption >Recomposition des tendances de Google Trends relatives par rapport à leurs maximums, en France sur 4 mois (janvier à mai 2020) pour les sujets "Agueusie", "Fièvre", "Toux" et "Diarrhée"***</figcaption>
+</figure>
+<h2>Conclusions</h2>
+<p>Ces remarques sur l'article de Harvard ne remettent pas en question l'approche et son intérêt, mais relativisent les conclusions et les certitudes qui pourraient en être tirées surtout en ses temps de vives tensions entre grandes puissances.</p>
+<p>Notre comparaison est aussi limitée, puisqu'elle se fait sur un autre pays et avec un autre moteur de recherche. En webométrie, il est quasi impossible de comparer des résultats provenant d'outils différents. </p>
+<p>Il est regrettable ici que les données de l'étude ne suivent pas les <a href="http://www.snf.ch/fr/leFNS/points-de-vue-politique-de-recherche/open_research_data/Pages/default.aspx">principes Open Research Data/FAIR</a> et qu'il n'y ait pas d'autres signaux étudiés. Malheureusement, l'interface des tendances de Baidu n'est qu'en chinois, ce qui en limite son utilisation généralisée. De plus, évidemment, nos essais sur Google Trends pour la Chine avec les mêmes sujets ne sont pas pertinents, car Google est beaucoup moins utilisé par les Chinois. </p>
+<p>* Sujet, dans Google Trends, indique plusieurs mots clés synonymes et leurs traductions pour un même sujet comme "douleur thoracique", "douleurs thoraciques", "douleur thorax" ou "chest pain".</p>
+<p>** Paramètres de Google Trends pour la figure 4 : France, 5 dernières années avant le 11 juin 2020,  sur toutes les catégories, sur la recherche Web et sur les sujets, "Agueusie", "Diarrhée", "Fièvre" et "Toux".</p>
+<p>*** Paramètres de Google Trends pour la figure 5 : France, du 1er janvier au 31 mai 2020,  sur toutes les catégories, sur la recherche Web et sur les sujets, "Agueusie", "Diarrhée", "Fièvre" et "Toux".</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Calendrier</title>
         <author>
@@ -77,7 +134,7 @@
         <link href="https://covidgilance.org/covidgilance-3.html"/>
         <id>https://covidgilance.org/covidgilance-3.html</id>
 
-        <updated>2020-06-09T22:15:50+02:00</updated>
+        <updated>2020-06-11T13:55:53+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/11/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="" />
@@ -88,8 +145,8 @@
             <![CDATA[
                     <img src="https://covidgilance.org/media/posts/11/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="" />
                 <p class="dropcap">Covidgilance vise à explorer le développement d'un outil de veille épidémiologique complémentaire aux méthodes de surveillance épidémiologique classiques, basé sur l’exploitation des données issues des requêtes de moteurs de recherche (Google Trends) et des visites de pages santé de références (Analytique Web). L’idée est de partager ces informations inédites et objectives comme indicateur de tendance de prévalence pour étudier la réalité, accompagner le déconfinement et possiblement mieux anticiper de nouvelles crises.</p>
-<p>Plus de <a href="https://covidgilance.org/la-genese-2.html">détail sur le projet Covidgilance</a>!</p>
-<p>Vous êtes un site de santé et <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">vous voulez participer</a>!</p>
+<p>Plus de <a href="https://covidgilance.org/la-genese-2.html">détails sur le projet Covidgilance</a> !</p>
+<p>Vous êtes un site de santé et <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">vous voulez participer</a> ?</p>
             ]]>
         </content>
     </entry>
@@ -164,7 +221,7 @@
         <id>https://covidgilance.org/la-genese-2.html</id>
             <category term="blog"/>
 
-        <updated>2020-06-09T21:24:07+02:00</updated>
+        <updated>2020-06-11T11:34:14+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/9/ben-o-bro-87oQ_cUO1Ns-unsplash.jpg" alt="image illustrative des feux d&#x27;artifices sur le lac de Genève depuis les toits " />
@@ -225,6 +282,8 @@
 </li>
 <li>L'influence médiatique</li>
 </ul>
+<h2>Remerciement</h2>
+<p>Ce projet de recherche est financé par <a href="https://www.hes-so.ch/fr/economie-services-10.html">le domaine économie et services de la HES-SO</a> pour une durée de 4 mois.   </p>
 <h2>Références</h2>
 <ol>
 <li>Choi, H., &amp; Varian, H. (2012). Predicting the present with Google Trends. Economic record, 88, 2- 9.</li>
