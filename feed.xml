@@ -3,106 +3,12 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-06-11T15:13:10+02:00</updated>
+    <updated>2020-06-12T09:04:56+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
-    <entry>
-        <title>Le coronavirus circulait déjà à Wuhan dès octobre 2019 selon l&#x27;université de Harvard</title>
-        <author>
-            <name>Arnaud Gaudinat</name>
-        </author>
-        <link href="https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html"/>
-        <id>https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html</id>
-            <category term="blog"/>
-
-        <updated>2020-06-11T15:13:01+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://covidgilance.org/media/posts/14/clay-banks-U0-r0JMypE0-unsplash.jpg" alt="" />
-                    Durée de lecture : 4 mn Une étude de la haute école de médecine de Harvard (appelé article d'Harvard par la suite) suggère que le coronavirus circulait déjà à Wuhan en octobre 2019. Les auteurs se basent sur deux sources d'informations : les images satellitaires&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://covidgilance.org/media/posts/14/clay-banks-U0-r0JMypE0-unsplash.jpg" alt="" />
-                <p class="msg msg--info">Durée de lecture : 4 mn</p>
-<p><a href="https://dash.harvard.edu/bitstream/handle/1/42669767/Satellite_Images_Baidu_COVID19_manuscript_DASH.pdf?sequence=3&amp;isAllowed=y">Une étude de la haute école de médecine de Harvard</a> (appelé article d'Harvard par la suite) suggère que le coronavirus circulait déjà à Wuhan en octobre 2019. Les auteurs se basent sur deux sources d'informations : les images satellitaires dans la région de Wuhan et les tendances des requêtes dans le moteur de recherche Baidu qui est le Google des Chinois avec plus 66% de parts de marché parmi les autres moteurs de recherche.</p>
-<h2>La vérité des images satellites</h2>
-<p>Selon les auteurs, les images satellites montrent un taux d'occupation élevé des places de parking autour des hôpitaux de Wuhan dès octobre 2019, donc bien avant les déclarations des autorités chinoises (7 janvier 2020).</p>
-<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/Capture-decran-2020-06-10-a-22.23.48-3.jpg" alt="" width="1598" height="438">
-<figcaption >Figure 1: Images satellites montrant une occupation plus importante des parkings de l'hôpital de Tianyou à Wuhan en  octobre 2019 par rapport à l'année précédente et le mois du confinement selon l'article d'Harvard (les images du marché aux produits de la mer en dessous ont été rognées ici pour simplification)</figcaption>
-</figure>
-<p>S'il existe une différence évidente dans la figure 1, entre octobre 2019 et février 2020 (dû au confinement), la différence entre octobre 2018 et octobre 2019 semble, en tout cas sur ces deux images, moins évidente.  </p>
-<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/Capture-decran-2020-06-11-a-13.07.02.jpg" alt="" width="975" height="321">
-<figcaption >La figure 2 : Trafic autour de différents hôpitaux à Wuhan entre 2018-2020 à partir d'images satellites (selon l'article d'Harvard)</figcaption>
-</figure>
-<p>La figure 2 permet d'observer le trafic autour de plusieurs hôpitaux de Wuhan avec des pics vers octobre (pour deux hôpitaux semble-t-il), mais avec une forte volatilité, qui rend la figure difficilement interprétable surtout sur une période longue.</p>
-<h2>La vérité des tendances selon Baidu</h2>
-<p>Dans le cas des tendances de Baidu, la méthode est celle plébiscitée par Covidgilance. Les auteurs ont étudié deux symptômes présents chez les patients atteints de covid-19 dès octobre 2019, comme il est possible de l'observer dans la figure 3 :</p>
-<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/Capture-decran-2020-06-10-a-16.03.34.jpg" alt="bla" width="1370" height="482">
-<figcaption >Figure 3 :Tendances 2018-2020 selon Baidu du signal  "toux" et de "diarrhée" (selon l'article d'Harvard)</figcaption>
-</figure>
-<p>Les auteurs soulignent que 'cough' (la toux) est un symptôme saisonnier qu'il est difficile de prendre en compte pour justifier leur hypothèse. Cependant, il est visible que même ce symptôme saisonnier est pertinent vers janvier 2020 (ici, on regrettera le manque de précision de l'échelle des abscisses).</p>
-<p>Les auteurs soulignent que 'diarrhea' (diarrhée) est un symptôme beaucoup plus pertinent puisque non saisonnier, ce qui est vrai. Il est aussi visible que ce signal est pertinent aussi vers janvier 2020. Cependant, l'interprétation en tant que signal faible dès octobre est possible, mais discutable. En effet, même s'il est non saisonnier pourquoi avoir choisi qu'un seul symptôme peu fréquent (selon OFSP) comme diarrhée ?  De plus d'après nos premières expériences ce signal ne semble pas le plus marqué par rapport à d'autres (en tout cas en France) :</p>
-<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/French-Trend-Covid-Signal-5-ans.jpeg" alt="Google Trends pour quelques symptôme du covid-19" width="1051" height="650">
-<figcaption >Figure 4 : Recomposition des tendances de Google Trends relatives par rapport à leurs maximums, en France sur 5 ans (2015 à 2020) pour les sujets* "Agueusie", "Fièvre", "Toux" et "Diarrhée"**</figcaption>
-</figure>
-<p>Un zoom sur la période de la crise de janvier à fin mai permet de constater que le signal induit en France par les requêtes sur le sujet* "Diarrhée" n'est pas le plus pertinent et que le signal du sujet "Agueusie" est le plus marqué pour une même date de pic d'activité. Les deux autres signaux que sont les sujets "Toux" et "Fièvre" apparaissent aussi plus marqués que le signal "Diarrhée" et surtout la croissance forte commence une dizaine de jours avant.  </p>
-<figure class="post__image" ><img src="https://covidgilance.org/media/posts/14/jan-mai-2020-fr.jpeg" alt="" width="1051" height="650">
-<figcaption >Recomposition des tendances de Google Trends relatives par rapport à leurs maximums, en France sur 4 mois (janvier à mai 2020) pour les sujets "Agueusie", "Fièvre", "Toux" et "Diarrhée"***</figcaption>
-</figure>
-<h2>Conclusions</h2>
-<p>Ces remarques sur l'article de Harvard ne remettent pas en question l'approche et son intérêt, mais relativisent les conclusions et les certitudes qui pourraient en être tirées surtout en ses temps de vives tensions entre grandes puissances.</p>
-<p>Notre comparaison est aussi limitée, puisqu'elle se fait sur un autre pays et avec un autre moteur de recherche. En effet, en webométrie, il est quasi impossible de comparer des résultats provenant d'outils différents. </p>
-<p>Il est regrettable ici que les données de l'étude ne soient pas disponibles, ne suivent pas les <a href="http://www.snf.ch/fr/leFNS/points-de-vue-politique-de-recherche/open_research_data/Pages/default.aspx">principes Open Research Data/FAIR</a> et qu'il n'y ait pas d'autres signaux étudiés. Malheureusement, l'interface des tendances de Baidu n'existe qu'en chinois, ce qui en limite son utilisation généralisée. De plus, évidemment, nos essais sur Google Trends pour la Chine avec les mêmes sujets ne sont pas pertinents, car Google est beaucoup moins utilisé par les Chinois. </p>
-<p>* Sujet, dans Google Trends, indique plusieurs mots clés synonymes et leurs traductions pour un même sujet comme "douleur thoracique", "douleurs thoraciques", "douleur thorax" ou "chest pain".</p>
-<p>** Paramètres de Google Trends pour la figure 4 : France, 5 dernières années avant le 11 juin 2020,  sur toutes les catégories, sur la recherche Web et sur les sujets, "Agueusie", "Diarrhée", "Fièvre" et "Toux".</p>
-<p>*** Paramètres de Google Trends pour la figure 5 : France, du 1er janvier au 31 mai 2020,  sur toutes les catégories, sur la recherche Web et sur les sujets, "Agueusie", "Diarrhée", "Fièvre" et "Toux".</p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Calendrier</title>
-        <author>
-            <name>Arnaud Gaudinat</name>
-        </author>
-        <link href="https://covidgilance.org/calendrier.html"/>
-        <id>https://covidgilance.org/calendrier.html</id>
-
-        <updated>2020-06-10T15:46:53+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Étape 1 : Recherche et vérification des signaux dans Google Trends (juin 2020) Étape 2: Extractions des tendances des signaux villes, régions, pays et continents (juillet 2020) Les développements futurs :Intégration des réseaux sociaux comme TwitterAugmentation de la couverture linguistique (Anglais, Allemand, Italien, Espagnol et&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li>
-<p class="p1">Étape <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">1 : Recherche et vérification des signaux dans Google Trends (juin 2020)</span></p>
-</li>
-<li>
-<p class="p1"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Étape 2: Extractions des tendances des signaux villes, régions, pays et continents (juillet 2020)</span></p>
-</li>
-<li>Étape 3<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> : </span>Réalisations de DataViz géolocalisées et de dataset dynamique (aout 2020)</li>
-<li>Étape 4<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> : </span> Mise en place d'une initiative de partage ouvert d'analytique Web géolocalisés complémentaires (septembre 2020)</li>
-<li>Étape 5<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> : </span>Validation et comparaison de l'approche avec les cas réels (septembre 2020)</li>
-</ul>
-<p>Les développements futurs :</p>
-<ul>
-<li>Intégration des réseaux sociaux comme Twitter</li>
-<li>Augmentation de la couverture linguistique (Anglais, Allemand, Italien, Espagnol et Chinois)</li>
-<li>Intégration des autres moteurs de recherches et de leurs données de tendances (Baidu, Yandex et Bing)</li>
-<li>Ajout de ses propres pages de signaux pour l'analytique Web précis</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Les partenaires</title>
         <author>
@@ -111,17 +17,18 @@
         <link href="https://covidgilance.org/les-partenaires.html"/>
         <id>https://covidgilance.org/les-partenaires.html</id>
 
-        <updated>2020-06-09T22:08:25+02:00</updated>
+        <updated>2020-06-12T08:53:38+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/12/aubrey-rose-odom-T1L9Q5g7eIQ-unsplash.jpg" alt="" />
-                    Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur analytique Web pour aider en la détection de signaux, voir l'appel à participation. Soyez le premier à participer, les sites seront cités par ordre d'acceptation.
+                    Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur analytique Web pour aider à la détection de signaux. Voir l'appel à participation. Soyez le premier à participer, les sites seront cités par ordre d'acceptation.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://covidgilance.org/media/posts/12/aubrey-rose-odom-T1L9Q5g7eIQ-unsplash.jpg" alt="" />
-                <p>Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur  analytique Web pour aider en la détection de signaux, <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">voir l'appel à participation</a>.</p>
+                <p>Ici seront listés les partenaires du projet, c'est-à-dire les sites de santé ayant partagé leur analytique Web pour aider à la détection de signaux.</p>
+<p><a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">Voir l'appel à participation</a>.</p>
 <p>Soyez le premier à participer, les sites seront cités par ordre d'acceptation.</p>
             ]]>
         </content>
@@ -134,7 +41,7 @@
         <link href="https://covidgilance.org/covidgilance-3.html"/>
         <id>https://covidgilance.org/covidgilance-3.html</id>
 
-        <updated>2020-06-11T13:55:53+02:00</updated>
+        <updated>2020-06-12T08:55:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/11/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="" />
@@ -145,8 +52,8 @@
             <![CDATA[
                     <img src="https://covidgilance.org/media/posts/11/martin-sanchez-j2c7yf223Mk-unsplash.jpg" alt="" />
                 <p class="dropcap">Covidgilance vise à explorer le développement d'un outil de veille épidémiologique complémentaire aux méthodes de surveillance épidémiologique classiques, basé sur l’exploitation des données issues des requêtes de moteurs de recherche (Google Trends) et des visites de pages santé de références (Analytique Web). L’idée est de partager ces informations inédites et objectives comme indicateur de tendance de prévalence pour étudier la réalité, accompagner le déconfinement et possiblement mieux anticiper de nouvelles crises.</p>
-<p>Plus de <a href="https://covidgilance.org/la-genese-2.html">détails sur le projet Covidgilance</a> !</p>
-<p>Vous êtes un site de santé et <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">vous voulez participer</a> ?</p>
+<p>Plus de <a href="https://covidgilance.org/la-genese-2.html">détails sur le projet Covidgilance</a>!</p>
+<p>Vous êtes un site de santé et <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">vous voulez participer</a>!</p>
             ]]>
         </content>
     </entry>
@@ -159,7 +66,7 @@
         <id>https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html</id>
             <category term="blog"/>
 
-        <updated>2020-06-09T21:11:05+02:00</updated>
+        <updated>2020-06-12T08:58:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/10/nasa-Q1p7bh3SHj8-unsplash.jpg" alt="Image illustrative de la NASA de l&#x27;activité lumineuse sur la terre " />
@@ -182,16 +89,16 @@
 <p><strong>Sur quelle durée ?</strong></p>
 <p>Au minimum 1 an avant l'événement lié à la pandémie du Coronavirus, jusqu'à la fin du projet de recherche (septembre 2020). Toute prolongation sera discuté.</p>
 <p><strong>Y a-t-il un problème de confidentialité par rapport aux données de mes utilisateurs ?</strong></p>
-<p>Aucune données personnelle ne sera accédée, traitée et diffusée  par nos chercheurs et nos outils. Seules les données de groupe nous intéressent, avec au pire une précision de l'ordre de la ville (mais nous pouvons nous limiter au niveau de la région/canton ou du pays, si nécessaire). Il sera aussi possible de ne pas transmettre le nom des partenaires.  Un accord de non-divulgation pourra être signé si besoin.</p>
+<p>Aucune données personnelle ne sera accédée, traitée ni diffusée par nos chercheurs et nos outils. Seules les données de groupe nous intéressent, avec une précision maximale de l'ordre de la ville (mais nous pouvons nous limiter au niveau de la région/canton ou du pays, si nécessaire). Il sera aussi possible de ne pas transmettre le nom des partenaires.  Un accord de non-divulgation pourra être signé si besoin.</p>
 <p><strong>Comment seront utilisées ces données ?</strong></p>
 <p>Les données seront normalisées, agrégées, analysées et mises en valeur avec les autres sites partenaires et éventuellement redistribuées selon le consentement des partenaires.</p>
 <p><strong>Quoi encore ?</strong></p>
 <p>Nous planifions d'avoir nos propres pages de signes et symptômes et de les partager. Cependant, le site étant récent, il y a très peu de chance qu'il soit visible dans les premiers résultats des moteurs de recherche. D'ailleurs, un site Web partenaire, ayant une forte popularité pour héberger ces pages, serait le bienvenu.</p>
 <p><strong>Mon site est-il trop petit pour participer ?</strong></p>
-<p>Le Web est décentralisé par nature, c'est l'unification de nos forces qui va nous rendre pertinents. Les petits sites de santés sont bienvenus. </p>
+<p>Le Web est décentralisé par nature, c'est l'unification de nos forces qui va nous rendre pertinents. Les petits sites de santés sont bienvenus.</p>
 <p><strong>Quels avantages pour mon site de santé ?</strong></p>
 <ul>
-<li>Participer à un projet de recherche et être cité ou pas, sans aucune  promesse de médiatisation</li>
+<li>Participer à un projet de recherche et être cité ou pas, sans aucune promesse de médiatisation</li>
 <li>Participer à la lutte contre le coronavirus et possiblement les prochaines pandémies</li>
 <li>Apprendre de nouvelles choses auprès de chercheurs</li>
 <li>Apprendre à mieux maitriser votre analytique Web et comprendre les bonnes pratiques</li>
@@ -221,7 +128,7 @@
         <id>https://covidgilance.org/la-genese-2.html</id>
             <category term="blog"/>
 
-        <updated>2020-06-11T11:34:14+02:00</updated>
+        <updated>2020-06-12T09:04:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/9/ben-o-bro-87oQ_cUO1Ns-unsplash.jpg" alt="image illustrative des feux d&#x27;artifices sur le lac de Genève depuis les toits " />
@@ -253,7 +160,7 @@
 </div>
 </div>
 <h2 id="problmatique">Problématique</h2>
-<p>La grande majorité des gouvernements et l’OMS ont été pris de cours par l’épidémie de COVID-19 pour différentes raisons. Les méthodes de surveillance épidémiologique courantes aussi bien internationale que nationale, bien qu’indispensables, ont montré des lacunes. Ces méthodes se basent sur des cas avérés qui par définition apparaissent lorsque la crise est déjà installée et prennent du temps à remonter au décideur surtout en période de crise où l’urgence est la prise en charge des malades. Au niveau international, on peut aussi douter de l’objectivité de certains chiffres nationaux qui rendent plus difficile la lecture de la réalité et donc l’anticipation éclairée.<br>Bien que maintenant consciente les instances sanitaires baseront principalement leurs décisions futures sur les mêmes approches pour réaliser là où les phases de déconfinement avec un retard dû au temps de récolte d’information. À l’ère numérique, on annonce des systèmes de traçage fins et anonymes sur smartphone qui pourront accompagner le déconfinement. Cette approche semble pertinente, mais ne sera certainement pas suffisante pour différentes raisons telles que le risque de non-compliance, la défiance, la problématique de la fracture numérique ou encore le risque de manipulation.</p>
+<p>La grande majorité des gouvernements et l’OMS ont été pris de cours par l’épidémie de COVID-19 pour différentes raisons. Les méthodes de surveillance épidémiologique courantes aussi bien internationale que nationale, bien qu’indispensables, ont montré des lacunes. Ces méthodes se basent sur des cas avérés qui par définition apparaissent lorsque la crise est déjà installée et prennent du temps à remonter au décideur surtout en période de crise où l’urgence est la prise en charge des malades. Au niveau international, on peut aussi douter de l’objectivité de certains chiffres nationaux qui rendent plus difficile la lecture de la réalité et donc l’anticipation éclairée.<br>Bien que maintenant conscientes, les instances sanitaires baseront principalement leurs décisions futures sur les mêmes approches pour réaliser la ou les phases de déconfinement avec un retard dû au temps de récolte d’information. À l’ère numérique, on annonce des systèmes de traçage fins et anonymes sur smartphone qui pourront accompagner le déconfinement. Cette approche semble pertinente, mais ne sera certainement pas suffisante pour différentes raisons telles que le risque de non-compliance, la défiance, la problématique de la fracture numérique ou encore le risque de manipulation.</p>
 <p>Hypothèse qui guide cette recherche :</p>
 <blockquote class="blockquote">Les données issues de Google Trends et/ou de l’analytique Web permettent de détecter les premiers signes et la progression d’une épidémie avec une granularité satisfaisante.</blockquote>
 <h2 id="mthodologie">Méthodologie</h2>
@@ -282,8 +189,6 @@
 </li>
 <li>L'influence médiatique</li>
 </ul>
-<h2>Remerciement</h2>
-<p>Ce projet de recherche est financé par <a href="https://www.hes-so.ch/fr/economie-services-10.html">le domaine économie et services de la HES-SO</a> pour une durée de 4 mois.   </p>
 <h2>Références</h2>
 <ol>
 <li>Choi, H., &amp; Varian, H. (2012). Predicting the present with Google Trends. Economic record, 88, 2- 9.</li>
@@ -302,7 +207,7 @@
         <link href="https://covidgilance.org/contact.html"/>
         <id>https://covidgilance.org/contact.html</id>
 
-        <updated>2020-06-10T10:53:12+02:00</updated>
+        <updated>2020-06-12T08:51:11+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/2/natalie-pedigo-wJK9eTiEZHY-unsplash.jpg" alt="" />
@@ -312,7 +217,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://covidgilance.org/media/posts/2/natalie-pedigo-wJK9eTiEZHY-unsplash.jpg" alt="" />
-                [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591646482591,"type":"publii-list","content":"<li><strong>Gaudinat Arnaud </strong>est professeur associé en science de l’information depuis 2016 à la HEG Genève. Il enseigne la webométrie et réalise des recherches sur le Web à partir de méthodes de Web Mining. Ceci, lui permet de collecter des données originales et d’allier analyse de données structurées et non structurés pour l’aide à la décision éclairée. Auparavant, il a oeuvré pendant 10 ans dans l’information médicale au sein de la fondation Health On the Net.</li><li><strong>Berger Bastien</strong>, est assistant HES à la HEG. Titulaire d’un bachelor en science informatique de l’université de Genève, il accompagne depuis plus de 4 ans le professeur A. Gaudinat dans ses recherches et notamment dans le Web mining de données massives.<br></li><li><b>Lebrun Christophe</b>, est collaborateur scientifique et data scientist à la HEG. Il développe actuellement des approches automatiques originales pour explorer le Web à la découverte d’échantillon de populations types pour répondre à des enquêtes. Il est titulaire du master en data science et machine learning CentraleSupélec.<br></li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1591731767174,"type":"publii-paragraph","content":"<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284754080,"type":"publii-header","content":"Contact","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"contact"}}},{"id":1591284756791,"type":"publii-paragraph","content":"email : arnaud.gaudinat@hesge.ch&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591646616149,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591646482591,"type":"publii-list","content":"<li><strong>Gaudinat Arnaud </strong>est professeur associé en science de l’information depuis 2016 à la HEG Genève. Il enseigne la webométrie et réalise des recherches sur le Web à partir de méthodes de Web Mining. Ceci, lui permet de collecter des données originales et d’allier analyse de données structurées et non-structurés pour l’aide à la décision éclairée. Auparavant, il a oeuvré pendant 10 ans dans l’information médicale au sein de la fondation Health On the Net.</li><li><strong>Berger Bastien</strong>, est assistant HES à la HEG. Titulaire d’un bachelor en science informatique de l’Université de Genève, il accompagne depuis plus de 4 ans le professeur A. Gaudinat dans ses recherches et notamment dans le Web mining de données massives.<br></li><li><b>Lebrun Christophe</b>, est collaborateur scientifique et data scientist à la HEG. Il développe actuellement des approches automatiques originales pour explorer le Web à la découverte d’échantillon de populations types pour répondre à des enquêtes. Il est titulaire du master en data science et machine learning CentraleSupélec.<br></li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1591731767174,"type":"publii-paragraph","content":"<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284754080,"type":"publii-header","content":"Contact","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"contact"}}},{"id":1591284756791,"type":"publii-paragraph","content":"email : arnaud.gaudinat@hesge.ch&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591646616149,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
