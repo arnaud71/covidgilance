@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-06-12T21:35:36+02:00</updated>
+    <updated>2020-06-18T08:43:44+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -159,7 +159,7 @@
         <id>https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html</id>
             <category term="blog"/>
 
-        <updated>2020-06-09T21:11:05+02:00</updated>
+        <updated>2020-06-17T15:44:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/10/nasa-Q1p7bh3SHj8-unsplash.jpg" alt="Image illustrative de la NASA de l&#x27;activité lumineuse sur la terre " />
@@ -180,7 +180,7 @@
 <p>Nous parlons des fréquentations géolocalisées des pages de signes et symptômes tels qu'une page sur la fièvre (voir les liens dans la section "Qui" pour les exemples).</p>
 <p>Il pourrait être intéressant d'obtenir les données sociologiques données par Google (âge, sexe ...), mais ces données devront être discutées plus en détail avec les partenaires.</p>
 <p><strong>Sur quelle durée ?</strong></p>
-<p>Au minimum 1 an avant l'événement lié à la pandémie du Coronavirus, jusqu'à la fin du projet de recherche (septembre 2020). Toute prolongation sera discuté.</p>
+<p>Au minimum 1 an avant l'événement lié à la pandémie du Coronavirus, jusqu'à la fin du projet de recherche (septembre 2020). Toute prolongation sera discutée.</p>
 <p><strong>Y a-t-il un problème de confidentialité par rapport aux données de mes utilisateurs ?</strong></p>
 <p>Aucune données personnelle ne sera accédée, traitée et diffusée  par nos chercheurs et nos outils. Seules les données de groupe nous intéressent, avec au pire une précision de l'ordre de la ville (mais nous pouvons nous limiter au niveau de la région/canton ou du pays, si nécessaire). Il sera aussi possible de ne pas transmettre le nom des partenaires.  Un accord de non-divulgation pourra être signé si besoin.</p>
 <p><strong>Comment seront utilisées ces données ?</strong></p>
@@ -193,7 +193,7 @@
 <ul>
 <li>Participer à un projet de recherche et être cité ou pas, sans aucune  promesse de médiatisation</li>
 <li>Participer à la lutte contre le coronavirus et possiblement les prochaines pandémies</li>
-<li>Apprendre de nouvelles choses auprès de chercheurs</li>
+<li>Apprendre des nouveautés auprès de chercheurs</li>
 <li>Apprendre à mieux maitriser votre analytique Web et comprendre les bonnes pratiques</li>
 <li>Participer sans risque</li>
 </ul>
