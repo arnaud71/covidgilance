@@ -14,7 +14,8 @@
             "url": "https://covidgilance.org/liste-des-signaux-etudies.html",
             "title": "Draft ! Liste des signaux étudiés",
             "summary": "Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut&hellip;",
-            "content_html": "<p>Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut contenir des signaux pertinents ou pas qui servent dans le cadre de cette étude.</p>\n<p>Le signal sujet \"Fièvre\" en France du 1er janvier au 1er mai 2020 (5 mois)</p>\n<p><img class=\"post__image\" src=\"https://covidgilance.org/media/posts/15/sujet-fievre-jan-mai-france.jpg\" alt=\"\" width=\"2120\" height=\"450\"></p>\n<p>Le signal sujet \"Douleur thoracique\" en France du 1er janvier au 1er mai 2020 (5 mois)</p>\n<p><img class=\"post__image\" src=\"https://covidgilance.org/media/posts/15/sujet-douleur-thoracique-jan-mai-france.jpg\" alt=\"\" width=\"2372\" height=\"512\"></p>",
+            "content_html": "<p>Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut contenir des signaux pertinents ou pas qui servent dans le cadre de cette étude.</p>\n<p>Le signal sujet \"Fièvre\" en France du 1er janvier au 1er mai 2020 (5 mois)<img class=\"post__image\" src=\"https://covidgilance.org/media/posts/15/sujet-fievre-jan-mai-france.jpg\" alt=\"\" width=\"2120\" height=\"450\"></p>\n<p>Le signal sujet \"Douleur thoracique\" en France du 1er janvier au 1er mai 2020 (5 mois)<img class=\"post__image\" src=\"https://covidgilance.org/media/posts/15/sujet-douleur-thoracique-jan-mai-france.jpg\" alt=\"\" width=\"2372\" height=\"512\"></p>\n<p>Le signal sujet \"Douleur abdominale\" en France du 1er janvier au 1er mai 2020 (5 mois)<img class=\"post__image\" src=\"https://covidgilance.org/media/posts/15/sujet-douleur-abdominale-jan-mai-france.jpg\" alt=\"\" width=\"2078\" height=\"438\"></p>\n<p>Le signal sujet \"Toux\" en France du 1er janvier au 1er mai 2020 (5 mois)<img class=\"post__image\" src=\"https://covidgilance.org/media/posts/15/sujet-toux-jan-mai-france.jpg\" alt=\"\" width=\"2082\" height=\"428\"></p>\n<p>Le signal sujet \"Courbature\" en France du 1er janvier au 1er mai 2020 (5 mois)<img class=\"post__image\" src=\"https://covidgilance.org/media/posts/15/sujet-courbature-jan-mai-france.jpg\" alt=\"\" width=\"2372\" height=\"512\"></p>",
+            "image": "https://covidgilance.org/media/posts/15/Capture-decran-2020-09-11-a-22.19.03.jpg",
             "author": {
                 "name": "Arnaud Gaudinat"
             },
@@ -22,7 +23,7 @@
                    "blog"
             ],
             "date_published": "2020-09-11T14:05:16+02:00",
-            "date_modified": "2020-09-11T22:01:55+02:00"
+            "date_modified": "2020-09-11T22:47:36+02:00"
         },
         {
             "id": "https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html",

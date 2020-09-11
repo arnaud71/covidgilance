@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-11T22:02:04+02:00</updated>
+    <updated>2020-09-11T22:47:55+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -18,19 +18,22 @@
         <id>https://covidgilance.org/liste-des-signaux-etudies.html</id>
             <category term="blog"/>
 
-        <updated>2020-09-11T22:01:55+02:00</updated>
+        <updated>2020-09-11T22:47:36+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/15/Capture-decran-2020-09-11-a-22.19.03.jpg" alt="" />
                     Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/15/Capture-decran-2020-09-11-a-22.19.03.jpg" alt="" />
                 <p>Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut contenir des signaux pertinents ou pas qui servent dans le cadre de cette étude.</p>
-<p>Le signal sujet "Fièvre" en France du 1er janvier au 1er mai 2020 (5 mois)</p>
-<p><img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-fievre-jan-mai-france.jpg" alt="" width="2120" height="450"></p>
-<p>Le signal sujet "Douleur thoracique" en France du 1er janvier au 1er mai 2020 (5 mois)</p>
-<p><img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-douleur-thoracique-jan-mai-france.jpg" alt="" width="2372" height="512"></p>
+<p>Le signal sujet "Fièvre" en France du 1er janvier au 1er mai 2020 (5 mois)<img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-fievre-jan-mai-france.jpg" alt="" width="2120" height="450"></p>
+<p>Le signal sujet "Douleur thoracique" en France du 1er janvier au 1er mai 2020 (5 mois)<img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-douleur-thoracique-jan-mai-france.jpg" alt="" width="2372" height="512"></p>
+<p>Le signal sujet "Douleur abdominale" en France du 1er janvier au 1er mai 2020 (5 mois)<img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-douleur-abdominale-jan-mai-france.jpg" alt="" width="2078" height="438"></p>
+<p>Le signal sujet "Toux" en France du 1er janvier au 1er mai 2020 (5 mois)<img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-toux-jan-mai-france.jpg" alt="" width="2082" height="428"></p>
+<p>Le signal sujet "Courbature" en France du 1er janvier au 1er mai 2020 (5 mois)<img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-courbature-jan-mai-france.jpg" alt="" width="2372" height="512"></p>
             ]]>
         </content>
     </entry>
