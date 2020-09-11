@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://covidgilance.org/liste-des-signaux-etudies.html",
+            "url": "https://covidgilance.org/liste-des-signaux-etudies.html",
+            "title": "Liste des signaux étudiés",
+            "summary": " trends.embed.renderExploreWidget(\"TIMESERIES\", {\"comparisonItem\":[{\"keyword\":\"/m/0cjf0\",\"geo\":\"FR\",\"time\":\"2020-01-01 2020-05-01\"}],\"category\":0,\"property\":\"\"}, {\"exploreQuery\":\"q=%2Fm%2F0cjf0&date=2020-01-01%202020-05-01&geo=FR&hl=fr\",\"guestPath\":\"https://trends.google.fr:443/trends/embed/\"}); ",
+            "content_html": "<p>\n<script type=\"text/javascript\" src=\"https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js\"></script>\n<script type=\"text/javascript\">\n    trends.embed.renderExploreWidget(\"TIMESERIES\", {\"comparisonItem\":[{\"keyword\":\"/m/0cjf0\",\"geo\":\"FR\",\"time\":\"2020-01-01 2020-05-01\"}],\"category\":0,\"property\":\"\"}, {\"exploreQuery\":\"q=%2Fm%2F0cjf0&date=2020-01-01%202020-05-01&geo=FR&hl=fr\",\"guestPath\":\"https://trends.google.fr:443/trends/embed/\"});\n  </script>\n</p>",
+            "author": {
+                "name": "Arnaud Gaudinat"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-11T14:05:16+02:00",
+            "date_modified": "2020-09-11T14:11:11+02:00"
+        },
+        {
             "id": "https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html",
             "url": "https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html",
             "title": "Le coronavirus circulait déjà à Wuhan dès octobre 2019 selon l&#x27;université de Harvard",
