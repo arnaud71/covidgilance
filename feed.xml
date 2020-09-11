@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-11T14:51:38+02:00</updated>
+    <updated>2020-09-11T14:53:07+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://covidgilance.org/liste-des-signaux-etudies.html</id>
             <category term="blog"/>
 
-        <updated>2020-09-11T14:51:32+02:00</updated>
+        <updated>2020-09-11T14:52:31+02:00</updated>
             <summary>
                 <![CDATA[
                      trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0cjf0","geo":"FR","time":"2020-01-01 2020-05-01"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F0cjf0&date=2020-01-01%202020-05-01&geo=FR&hl=fr","guestPath":"https://trends.google.fr:443/trends/embed/"}); 
