@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-11T15:10:56+02:00</updated>
+    <updated>2020-09-11T22:02:04+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://covidgilance.org/liste-des-signaux-etudies.html</id>
             <category term="blog"/>
 
-        <updated>2020-09-11T15:10:51+02:00</updated>
+        <updated>2020-09-11T22:01:55+02:00</updated>
             <summary>
                 <![CDATA[
                     Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut&hellip;
@@ -26,20 +26,11 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut contenir des signaux pertinents qui servent dans le cadre de cette étude.</p>
-<p>Le signal sujet "Fièvre" en France du 1er janvier au 1er mai 2020 (5 mois)
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script>
-<script type="text/javascript">
-    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0cjf0","geo":"FR","time":"2020-01-01 2020-05-01"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F0cjf0&date=2020-01-01%202020-05-01&geo=FR&hl=fr","guestPath":"https://trends.google.fr:443/trends/embed/"});
-  </script>
-</p>
+                <p>Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut contenir des signaux pertinents ou pas qui servent dans le cadre de cette étude.</p>
+<p>Le signal sujet "Fièvre" en France du 1er janvier au 1er mai 2020 (5 mois)</p>
+<p><img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-fievre-jan-mai-france.jpg" alt="" width="2120" height="450"></p>
 <p>Le signal sujet "Douleur thoracique" en France du 1er janvier au 1er mai 2020 (5 mois)</p>
-<p> 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script>
-<script type="text/javascript">
-    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/02np4v","geo":"FR","time":"2020-01-01 2020-05-01"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F02np4v&date=2020-01-01%202020-05-01&geo=FR&hl=fr","guestPath":"https://trends.google.fr:443/trends/embed/"});
-  </script>
-</p>
+<p><img class="post__image" src="https://covidgilance.org/media/posts/15/sujet-douleur-thoracique-jan-mai-france.jpg" alt="" width="2372" height="512"></p>
             ]]>
         </content>
     </entry>
