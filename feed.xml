@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-11T15:10:05+02:00</updated>
+    <updated>2020-09-11T15:10:56+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://covidgilance.org/liste-des-signaux-etudies.html</id>
             <category term="blog"/>
 
-        <updated>2020-09-11T15:09:58+02:00</updated>
+        <updated>2020-09-11T15:10:51+02:00</updated>
             <summary>
                 <![CDATA[
                     Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant d'identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut&hellip;
