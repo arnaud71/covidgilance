@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-18T17:45:07+02:00</updated>
+    <updated>2020-09-18T17:50:51+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -19,14 +19,16 @@
             <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-09-18T17:44:39+02:00</updated>
+        <updated>2020-09-18T17:50:45+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
                     Durée de lecture : 8 mn L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur les signaux covid. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme 'Fièvre' dans&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
                 <p class="msg msg--info">Durée de lecture : 8 mn</p>
 <h2>Objectif</h2>
 <p>L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur <a href="https://covidgilance.org/liste-des-signaux-etudies.html">les signaux covid</a>. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme  'Fièvre' dans Google. Les premiers résultats dans Google sont les sites les plus visités par les internautes. Dans le cadre de notre étude, les visites sur certaines pages de ces sites peuvent indiquer des signaux complémentaires aux tendances de Google (<a href="#non-existing-post-with-id-7">voir méthodologie</a>).  Ainsi réussir à créer un réseau d'alertes sur le Web qui utilise les visites de pages qui correspondent à des signaux peut s'avérer pertinent (mais reste à démontrer).</p>
