@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-18T17:50:51+02:00</updated>
+    <updated>2020-09-21T13:51:44+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-09-18T17:50:45+02:00</updated>
+        <updated>2020-09-21T13:51:35+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
@@ -33,7 +33,7 @@
 <h2>Objectif</h2>
 <p>L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur <a href="https://covidgilance.org/liste-des-signaux-etudies.html">les signaux covid</a>. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme  'Fièvre' dans Google. Les premiers résultats dans Google sont les sites les plus visités par les internautes. Dans le cadre de notre étude, les visites sur certaines pages de ces sites peuvent indiquer des signaux complémentaires aux tendances de Google (<a href="#non-existing-post-with-id-7">voir méthodologie</a>).  Ainsi réussir à créer un réseau d'alertes sur le Web qui utilise les visites de pages qui correspondent à des signaux peut s'avérer pertinent (mais reste à démontrer).</p>
 <h2>Méthodes</h2>
-<p>Les tableaux de 1 à 4 présentent les résultats des 20 premières positions dans Google de 4 types de liste de requêtes. Les tables 1 et 2 présentent les résultats en <strong>français</strong> pour Google Suisse depuis la région de Genève (IP dans le canton de Genève) et  les tables 3 et 4 présentent les résultats en anglais pour Google monde (google.com) depuis les États-Unis. Les tables 1 et 3 présentent des résultats pour des requêtes dans Google à partir de signaux simples (fièvre, toux, douleur du thorax, etc.) sans les termes 'covid' et 'coronavirus', alors que les tables 2 et 4 présentent  des résultats pour des requêtes 'amplifiées' par les termes 'covid' et 'coronavirus' pour chaque signal simple (fièvre covid, fièvre coronavirus, toux covid, toux coronavirus, etc.).</p>
+<p>Les tableaux de 1 à 4 présentent les résultats des 20 premières positions (top 20) dans Google de 4 types de liste de requêtes. Les tables 1 et 2 présentent les résultats en <strong>français</strong> pour Google Suisse depuis la région de Genève (IP dans le canton de Genève) et  les tables 3 et 4 présentent les résultats en anglais pour Google monde (google.com) depuis les États-Unis. Les tables 1 et 3 présentent des résultats pour des requêtes dans Google à partir de signaux simples (fièvre, toux, douleur du thorax, etc.) sans les termes 'covid' et 'coronavirus', alors que les tables 2 et 4 présentent  des résultats pour des requêtes 'amplifiées' par les termes 'covid' et 'coronavirus' pour chaque signal simple (fièvre covid, fièvre coronavirus, toux covid, toux coronavirus, etc.).</p>
 <p>Seuls les 20 premiers résultats des moteurs de recherches sont retournés par notre système. Cependant, il est à noter que bien souvent Google retourne plus de 20 résultats pour un top 20, notamment avec les encadrés (extraits optimisés) et les réponses aux questions au début de la page de résultats, voir figure 1. Les nombres et flèches en rouge indiquent les positions considérées (au sens du SEO) dans le cadre de notre étude pour les résultats naturels (dit organiques et donc non publicitaires). </p>
 <figure class="post__image" ><img src="https://covidgilance.org/media/posts/16/capture-toux.jpg" alt="Figure 1 : Résultats de Google pour la requête Toux et positionnement dans le cadre de cette étude (capture du 17 septembre 2020)" width="2216" height="1650">
 <figcaption >Figure 1 : Résultats de Google pour la requête Toux et positionnement dans le cadre de cette étude (capture du 17 septembre 2020)</figcaption>
@@ -45,13 +45,14 @@
 <li>Position moyenne calculée entre toutes les requêtes. Pour pouvoir calculer une moyenne, il a été décidé de mettre arbitrairement la plus mauvaise position à 30 pour un site Web qui n'apparait pas dans les résultats (sachant que dans le top 20 des résultats du moteur de recherche, la position la plus haute est de 26**).</li>
 <li>Pourcentage de signaux présents dans le top 20 des résultats de moteurs de recherche. Cet indice permet d'identifier quels sont les sites qui sont les plus présents dans la plupart des requêtes.</li>
 <li>Position moyenne pondérée par le pourcentage de signaux. Le rang R indiqué par la première colonne provient de cette valeur.</li>
-<li><a href="https://www.hon.ch/HONcode/French/">HONcode </a> permet d'indiquer si le site Web dispose d'un certificat HONcode ou pas, et si ce certificat est encore valide en septembre 2020 (date de l'étude). Le HONcode est un code de bonne conduite en 8 principes, pour les sites de santé, qui existe depuis plus de 20 ans.</li>
-<li>Type, permet d'identifier si le site est un  site santé (santé), gouvernemental (gouv), media (media), encyclopédique (dict) ou académique/universitaire (édu). A noter que les médias n'ayant pas un nom de domaine spécifique à la santé ne sont pas considérés comme site de santé (i.e. <em>sante.journaldesfemmes.fr</em> par rapport à <em>www.femmeactuelle.fr/santé</em>).</li>
+<li><a href="https://www.hon.ch/HONcode/French/">HONcode </a>permet d'indiquer si le site Web dispose d'un certificat HONcode ou pas, et si ce certificat est encore valide en septembre 2020 (date de l'étude). Le HONcode est un code de bonne conduite en 8 principes, pour les sites de santé, qui existe depuis plus de 20 ans.</li>
+<li>Type, permet d'identifier si le site est un  site santé (santé), gouvernemental (gouv), media (media), encyclopédique (dict) ou académique/universitaire (édu). Cette sélection a été par les auteurs de façon empirique. A noter que les médias n'ayant pas un nom de domaine spécifique à la santé ne sont pas considérés comme site de santé (i.e. <em>sante.journaldesfemmes.fr</em> par rapport à <em>www.femmeactuelle.fr/santé</em>). Certains site Web peuvent appartenir à plusieurs type à l'instar du site <a class="in-cell-link" href="http://www.bag.admin.ch" target="_blank" rel="noopener"></a><em>'www.bag.admin.ch'</em> qui est à la fois un site gouvernemental mais aussi sur la santé.</li>
 </ol>
 <p>L'astérisque au niveau du nom du site Web, indique un site de santé qui peut être potentiellement pertinent pour la création du réseau d'alertes analytique covid. </p>
 <h2>Résultats</h2>
+<p>Les quatre tops 20 présentés ici sont issus de l'agrégation des tops 20 de chaque résultat de requête. Ainsi le premier résultat donne le top 20 provenant de 25 requêtes différentes et correspond aux 20 premiers sites Web les mieux positionnés parmi les 194 sites Web dans les 25 résultats de recherches (sachant que beaucoup de site Web n'apparaissent qu'une fois). </p>
 <h3>Signaux simples pour les sites en suisses francophones</h3>
-<p>Pour une liste de 25 requêtes, 194 sites Web différents ont été identifiés (table 1). Le site Web le mieux positionné est 'www.passeportsante.net' car il a obtenu une position moyenne pondérée de 8.4 et est présent dans 92% des résultats de recherche. Le site en seconde  position a déjà une position moyenne pondérée de 17.1 et une présence de 80% dans les différents résultats de recherche.</p>
+<p>Pour une liste de 25 requêtes, 194 sites Web différents ont été identifiés mais seul le top 20 est ici considéré (table 1). Le site Web le mieux positionné est '<em>www.passeportsante.net</em>' car il a obtenu une position moyenne pondérée de 8.4 et est présent dans 92% des résultats de recherche. Le site en seconde  position a déjà une position moyenne pondérée de 17.1 et une présence de 80% dans les différents résultats de recherche. </p>
 <ul>
 <li>Parmi les sites sont identifiés :
 <ul>
@@ -71,17 +72,17 @@
 <table style="border-collapse: collapse; width: 104.781%; height: 1103px;" border="1"><caption>Table 1 : Top 20 des sites Web répondant aux<strong> signaux covid simples</strong> dans Google Suisse et en français au 17 septembre 2020 </caption>
 <tbody>
 <tr style="height: 103px;">
-<td style="width: 12.3431%; height: 103px;">R</td>
-<td style="width: 21.5481%; height: 103px;" >Site Web</td>
-<td style="width: 14.8396%; height: 103px;">Position moyenne</td>
+<td style="width: 12.3431%; height: 103px;"><strong>R</strong></td>
+<td style="width: 21.5481%; height: 103px;" ><strong>Site Web</strong></td>
+<td style="width: 14.8396%; height: 103px;"><strong>Position moyenne</strong></td>
 <td style="width: 21.6737%; height: 103px;">
-<p>% de signaux dans Top 20</p>
+<p><strong>% de présence dans Top 20</strong></p>
 </td>
 <td style="width: 11.7433%; height: 103px;">
-<p>Position moyenne pondérée</p>
+<p><strong>Position moyenne pondérée</strong></p>
 </td>
 <td style="width: 5.87165%; height: 103px;">
-<p>HONcode</p>
+<p><strong>HONcode</strong></p>
 </td>
 <td style="width: 5.87165%; height: 103px;">
 <p>Type</p>
@@ -270,7 +271,7 @@
 </tbody>
 </table>
 <h3>Signaux amplifiés pour les sites suisses francophones</h3>
-<p>Pour une liste de 50 requêtes, 164 sites Web différents ont été identifiés (table 2). Le site Web le mieux positionné est 'www.ag.admin.ch' car il a obtenu une position moyenne pondérée de 14.6 et est présent dans 78% des résultats de recherche. Le second site a déjà une position moyenne pondéré de 21.8 et une présence de 62% dans les différents résultats de recherche.</p>
+<p>Pour une liste de 50 requêtes, 164 sites Web différents ont été identifiés mais seul le top 20 est ici considéré (table 2). Le site Web le mieux positionné est <em>'www.bag.admin.ch'</em> car il a obtenu une position moyenne pondérée de 14.6 et est présent dans 78% des résultats de recherche. Le second site a déjà une position moyenne pondéré de 21.8 et une présence de 62% dans les différents résultats de recherche.</p>
 <ul>
 <li>Parmi les sites sont identifiés :
 <ul>
@@ -294,7 +295,7 @@
 <td style="width: 17.9288%; height: 103px;" ><strong>Site Web</strong></td>
 <td style="width: 18.4589%; height: 103px;"><strong>Position moyenne</strong></td>
 <td style="width: 21.6737%; height: 103px;">
-<p><strong>% de signaux dans Top 20</strong></p>
+<p><strong>% de présence dans Top 20</strong></p>
 </td>
 <td style="width: 11.7433%; height: 103px;">
 <p><strong>Position moyenne pondérée</strong></p>
@@ -489,7 +490,7 @@
 </tbody>
 </table>
 <h3>Signaux simples pour les sites US anglophones</h3>
-<p>Pour une liste de 17 requêtes, 139 sites Web différents ont été identifiés (table 3). Le site Web le mieux positionné est 'www..healthline.com' car il a obtenu une position moyenne pondérée de 7 et est présent dans 94% des résultats de recherche. Le second site est très proche avec une position moyenne pondéré de 7.3 et une présence de 94% dans les différents résultats de recherche.</p>
+<p>Pour une liste de 17 requêtes, 139 sites Web différents ont été identifiés mais seul le top 20 est ici considéré (table 3). Le site Web le mieux positionné est <em>'www.healthline.com'</em> car il a obtenu une position moyenne pondérée de 7 et est présent dans 94% des résultats de recherche. Le second site est très proche avec une position moyenne pondéré de 7.3 et une présence de 94% dans les différents résultats de recherche.</p>
 <ul>
 <li>Parmi les sites sont identifiés :
 <ul>
@@ -508,17 +509,17 @@
 <table style="border-collapse: collapse; width: 104.711%; height: 1103px;" border="1"><caption>Table 3 : Top 20 des sites Web répondant aux <strong>signaux covid simples </strong>dans <strong>Google US et en anglais</strong> au 17 septembre 2020 </caption>
 <tbody>
 <tr style="height: 103px;">
-<td style="width: 12.3431%; height: 103px;">R</td>
-<td style="width: 21.5481%; height: 103px;" >Site Web</td>
-<td style="width: 14.8396%; height: 103px;">Position moyenne</td>
+<td style="width: 12.3431%; height: 103px;"><strong>R</strong></td>
+<td style="width: 21.5481%; height: 103px;" ><strong>Site Web</strong></td>
+<td style="width: 14.8396%; height: 103px;"><strong>Position moyenne</strong></td>
 <td style="width: 21.6737%; height: 103px;">
-<p>% de signaux dans Top 20</p>
+<p><strong>% de présence dans Top 20</strong></p>
 </td>
 <td style="width: 11.7433%; height: 103px;">
-<p>Position moyenne pondérée</p>
+<p><strong>Position moyenne pondérée</strong></p>
 </td>
 <td style="width: 5.87165%;">
-<p>HONcode</p>
+<p><strong>HONcode</strong></p>
 </td>
 <td style="width: 5.87165%;">
 <p>Type</p>
@@ -707,7 +708,7 @@
 </tbody>
 </table>
 <h3>Signaux amplifiés pour les sites US anglophones</h3>
-<p>Pour une liste de 37 requêtes, 209 sites Web différents ont été identifiés (table 4). Le site Web le mieux positionné est <strong>'www.cdc.gov'</strong> car il a obtenu une position moyenne pondérée de <strong>5.4</strong> et est présent dans <strong>95%</strong> des résultats de recherche. Le second site  à déjà une position moyenne pondéré de 13.8 et une présence de 78% dans les différents résultats de recherche.</p>
+<p>Pour une liste de 37 requêtes, 209 sites Web différents ont été identifiés mais seul le top 20 est ici considéré (table 4). Le site Web le mieux positionné est <em><strong>'www.cdc.gov'</strong></em> car il a obtenu une position moyenne pondérée de <strong>5.4</strong> et est présent dans <strong>95%</strong> des résultats de recherche. Le second site  à déjà une position moyenne pondéré de 13.8 et une présence de 78% dans les différents résultats de recherche.</p>
 <ul>
 <li>Parmi les sites sont identifiés :
 <ul>
@@ -728,17 +729,17 @@
 <table style="border-collapse: collapse; width: 104.963%; height: 1103px;" border="1">
 <tbody>
 <tr style="height: 103px;">
-<td style="width: 12.3431%; height: 103px;">R</td>
-<td style="width: 12.7871%; height: 103px;" >Site Web</td>
-<td style="width: 23.6006%; height: 103px;">Position moyenne</td>
+<td style="width: 12.3431%; height: 103px;"><strong>R</strong></td>
+<td style="width: 12.7871%; height: 103px;" ><strong>Site Web</strong></td>
+<td style="width: 23.6006%; height: 103px;"><strong>Position moyenne</strong></td>
 <td style="width: 21.6737%; height: 103px;">
-<p>% de signaux dans Top 20</p>
+<p><strong>% de présence dans Top 20</strong></p>
 </td>
 <td style="width: 11.7433%; height: 103px;">
-<p>Position moyenne pondérée</p>
+<p><strong>Position moyenne pondérée</strong></p>
 </td>
 <td style="width: 5.87165%; height: 103px;">
-<p>HONcode</p>
+<p><strong>HONcode</strong></p>
 </td>
 <td style="width: 5.87165%;">
 <p>Type</p>
@@ -927,7 +928,14 @@
 </tbody>
 </table>
 <h2>Discussion</h2>
-<p>La sélection des sites pouvant faire partie du réseau d'alerte analytique covid (indiqué par un astérisque) se fait sur le critère d'appartenance  au type site de santé ou gouvernemental ou encore académique. Les sites de type media sont à priori trop dynamique pour les inclure dans un premier temps. Les sites encyclopédiques pourraient très bien en théorie faire partie du réseau sur tout quand on considère le très bon positionnement de wikipedia en général. Malheureusement, Wikipedia en l'occurrence qui offre ces analytiques ne permet pas d'identifier l'origine géographique de ses utilisateurs pour des raisons de confidentialités. </p>
+<p>La méthode présentée dans cette étude a permis d'obtenir une liste de sites Web qui sont les plus visibles (top 20) pour des requêtes qui correspondent aux signaux du Covid. Parmi ses résultats qui semblent pertinents, la plupart proviennent de sites de santé mais aussi de sites gouvernementaux qui font références. </p>
+<p>Parmi les tops 20 des 4 types de jeu de requêtes, l'astérisque indique une sélection des auteurs de cette étude basée sur l'appartenance au site de santé, gouvernementaux ou encore académiques. En effet, dans un premier temps, les auteurs ont considérés les sites de type média non orientés santés, comme trop dynamiques et moins pertinents pour un suivi longitudinal (dans le temps). Les sites encyclopédiques pourraient très bien en théorie faire partie du réseau sur tout quand on considère le très bon positionnement de Wikipedia en général. Malheureusement, Wikipedia en l'occurrence qui offre ces analytiques Web ne permet pas d'identifier l'origine géographique de ses utilisateurs pour des raisons de confidentialités. </p>
+<p>Le HONcode qui peut être un indicateur de qualité, n'a pas été utilisé dans notre étude comme critère de sélection mais pourra être à considérer pour les sites Web faisant partie de ce réseau pour une adoption ou une mise à jour de leur conformité HONcode.</p>
+<p class="p1">Plutôt que de prendre arbitrairement les tops 20, il serait possible et pertinent d'effectuer la sélection des sites avec un seuil basé soit sur le pourcentage de présence (par exemple &gt;30%) ou soit la position moyenne pondérée (par exemple &lt;30).  </p>
+<p>La suite consiste donc à contacter ces sites Web pour savoir s'ils veulent faire partie de ce réseaux.</p>
+<p> </p>
+<p> </p>
+<p>Sensibilisation !! sélection des sites!!!</p>
             ]]>
         </content>
     </entry>
@@ -940,7 +948,7 @@
         <id>https://covidgilance.org/liste-des-signaux-etudies.html</id>
             <category term="blog"/>
 
-        <updated>2020-09-18T17:45:02+02:00</updated>
+        <updated>2020-09-21T09:25:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/15/Capture-decran-2020-09-11-a-22.19.03.jpg" alt="" />
@@ -953,8 +961,12 @@
                 <p class="msg msg--info">Durée de lecture : 4 mn</p>
 <p>Attention les signaux présentés ici ne peuvent être considérés comme étant des signes et symptômes qui valident ou invalident le fait d'avoir contracter le coronavirus.  En cas de doute, veuillez contacter les services idoines de vos pays.</p>
 <p>Ici sont exposés les signaux étudiés dans le cadre de Covidgilance. L'objectif étant de rechercher et identifier les signaux les plus pertinents par rapport au Covid dans les moteurs de recherche, comme exposé dans l'explication du projet. La liste qui suit est donnée de façon exhaustive et peut contenir des signaux pertinents ou non qui servent dans le cadre de cette étude.</p>
-<p>La sélection de ces signaux c'est fait à partir des <a href="https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/krankheit-symptome-behandlung-ursprung.html#275916644" target="_blank" rel="noopener noreferrer">listes des principaux symptômes sur le site de l'OFSP</a> (Office Fédérale de la Santé Publique) et l'OMS.  Les autres signaux proviennent des requêtes associées (Google Trends), c'est-à-dire les autre requêtes des utilisateurs ayant fait la même requête originale (provenant donc des symptômes de notre liste de l'OFSP et OMS). </p>
+<p>La  (!!! coeur des signaux) sélection de ces signaux s'est faite à partir des <a href="https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/krankheit-symptome-behandlung-ursprung.html#275916644" target="_blank" rel="noopener noreferrer">listes des principaux symptômes sur le site de l'OFSP</a> (Office Fédérale de la Santé Publique) et l'OMS.  Les autres signaux proviennent des requêtes associées (Google Trends, GT), c'est-à-dire les autre requêtes des utilisateurs ayant fait la même requête originale (provenant donc des symptômes de notre liste de l'OFSP et OMS). </p>
 <p>Dans la table 1, la première colonne est le sujet (dans GT le sujet est une recherche par concept donc y compris des variantes ortographiques ). La seconde colonne indique un équivalent sujet proposé mais avec un ou plusieurs mots clés . La troisième colonne indique si la sélection du signal dans la liste provient du site de l'OFSP ou de l'OMS. La colonne Top date GT donne la date correspondant au pic du signal. Et finalement la dernière colonne permet de valider visuellement si le signal semble pertinent par rapport à la temporalité de la crise covid, c'est-à-dire un pic, une déviation par rapport à la moyenne marquée pendant cette période.</p>
+<p> </p>
+<p>!!! explication pourquoi la france suisse </p>
+<p>rappeler comparaison media !</p>
+<p> </p>
 <table style="border-collapse: collapse; width: 100%; height: 1037px;" border="1"><caption>Table 1 : liste des signaux étudiés avec leurs caractéristiques</caption>
 <tbody>
 <tr style="height: 50px;">
