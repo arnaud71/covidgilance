@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-28T09:13:59+02:00</updated>
+    <updated>2020-09-28T09:28:17+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-09-28T09:13:54+02:00</updated>
+        <updated>2020-09-28T09:28:13+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
@@ -930,13 +930,11 @@
 </table>
 <h2>Discussion</h2>
 <p>La méthode présentée dans cette étude a permis d'obtenir une liste de sites Web qui sont les plus visibles (top 20) pour des requêtes qui correspondent aux signaux du Covid. Parmi ses résultats qui semblent pertinents, la plupart proviennent de sites de santé mais aussi de sites gouvernementaux qui font références. </p>
-<p>Parmi les tops 20 des 4 types de jeu de requêtes, l'astérisque indique une sélection des auteurs de cette étude basée sur l'appartenance au site de santé, gouvernementaux ou encore académiques. En effet, dans un premier temps, les auteurs ont considérés les sites de type média non orientés santés, comme trop dynamiques et moins pertinents pour un suivi longitudinal (dans le temps). Les sites encyclopédiques pourraient très bien en théorie faire partie du réseau sur tout quand on considère le très bon positionnement de Wikipedia en général. Malheureusement, Wikipedia en l'occurrence qui offre ces analytiques Web ne permet pas d'identifier l'origine géographique de ses utilisateurs pour des raisons de confidentialités. </p>
+<p>Parmi les tops 20 des 4 types de jeu de requêtes, l'astérisque indique une sélection des auteurs de cette étude basée sur l'appartenance au site de santé, gouvernementaux ou encore académiques. En effet, dans un premier temps, les auteurs ont considérés les sites de type média non orientés santés, comme trop dynamiques et moins pertinents pour un suivi longitudinal (dans le temps). Les sites encyclopédiques pourraient très bien en théorie faire partie du réseau surtout quand on considère le très bon positionnement de Wikipedia en général. Malheureusement, Wikipedia en l'occurrence qui offre ces analytiques Web ne permet pas d'identifier l'origine géographique de ses utilisateurs pour des raisons de confidentialités. </p>
 <p>Le HONcode qui peut être un indicateur de qualité, n'a pas été utilisé dans notre étude comme critère de sélection mais pourra être à considérer pour les sites Web faisant partie de ce réseau pour une adoption ou une mise à jour de leur conformité HONcode.</p>
 <p class="p1">Plutôt que de prendre arbitrairement les tops 20, il serait possible et pertinent d'effectuer la sélection des sites avec un seuil basé soit sur le pourcentage de présence (par exemple &gt;30%) ou soit la position moyenne pondérée (par exemple &lt;30).  </p>
 <p>Le plus difficile reste ensuite à faire ... contacter et motiver ces sites Web pour savoir s'ils veulent faire partie de ce réseau.</p>
 <p> </p>
-<p> </p>
-<p>Sensibilisation !! sélection des sites!!!</p>
             ]]>
         </content>
     </entry>
