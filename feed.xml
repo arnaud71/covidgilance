@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-21T14:43:46+02:00</updated>
+    <updated>2020-09-28T09:13:59+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -19,19 +19,20 @@
             <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-09-21T13:51:35+02:00</updated>
+        <updated>2020-09-28T09:13:54+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
-                    Durée de lecture : 8 mn L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur les signaux covid. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme 'Fièvre' dans&hellip;
+                    Durée de lecture : 9 mn L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur les signaux covid. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme 'Fièvre' dans&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
-                <p class="msg msg--info">Durée de lecture : 8 mn</p>
+                <p class="msg msg--info">Durée de lecture : 9 mn</p>
 <h2>Objectif</h2>
 <p>L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur <a href="https://covidgilance.org/liste-des-signaux-etudies.html">les signaux covid</a>. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme  'Fièvre' dans Google. Les premiers résultats dans Google sont les sites les plus visités par les internautes. Dans le cadre de notre étude, les visites sur certaines pages de ces sites peuvent indiquer des signaux complémentaires aux tendances de Google (<a href="#non-existing-post-with-id-7">voir méthodologie</a>).  Ainsi réussir à créer un réseau d'alertes sur le Web qui utilise les visites de pages qui correspondent à des signaux peut s'avérer pertinent (mais reste à démontrer).</p>
+<p>Les datasets sont disponibles en entier sur le dépôt de données de recherche <a href="https://zenodo.org/record/4048460#.X3GIwlngp24">Zenodo</a>. </p>
 <h2>Méthodes</h2>
 <p>Les tableaux de 1 à 4 présentent les résultats des 20 premières positions (top 20) dans Google de 4 types de liste de requêtes. Les tables 1 et 2 présentent les résultats en <strong>français</strong> pour Google Suisse depuis la région de Genève (IP dans le canton de Genève) et  les tables 3 et 4 présentent les résultats en anglais pour Google monde (google.com) depuis les États-Unis. Les tables 1 et 3 présentent des résultats pour des requêtes dans Google à partir de signaux simples (fièvre, toux, douleur du thorax, etc.) sans les termes 'covid' et 'coronavirus', alors que les tables 2 et 4 présentent  des résultats pour des requêtes 'amplifiées' par les termes 'covid' et 'coronavirus' pour chaque signal simple (fièvre covid, fièvre coronavirus, toux covid, toux coronavirus, etc.).</p>
 <p>Seuls les 20 premiers résultats des moteurs de recherches sont retournés par notre système. Cependant, il est à noter que bien souvent Google retourne plus de 20 résultats pour un top 20, notamment avec les encadrés (extraits optimisés) et les réponses aux questions au début de la page de résultats, voir figure 1. Les nombres et flèches en rouge indiquent les positions considérées (au sens du SEO) dans le cadre de notre étude pour les résultats naturels (dit organiques et donc non publicitaires). </p>
@@ -549,7 +550,7 @@
 <td style="width: 14.8396%;"  >7.8</td>
 <td style="width: 21.6737%;"   >88%</td>
 <td style="width: 11.7433%;"   >10.4</td>
-<td style="width: 5.87165%;"><a>valide</a></td>
+<td style="width: 5.87165%;"><a href="https://www.hon.ch/HONcode/Conduct_f.html?HONConduct298987">valide</a></td>
 <td style="width: 5.87165%;">santé</td>
 </tr>
 <tr style="height: 50px;">
@@ -769,7 +770,7 @@
 <td style="width: 23.6006%; height: 50px;"  >10.8</td>
 <td style="width: 21.6737%; height: 50px;"   >78%</td>
 <td style="width: 11.7433%; height: 50px;"   >14.9</td>
-<td style="width: 5.87165%; height: 50px;"><a>valide</a></td>
+<td style="width: 5.87165%; height: 50px;"><a href="https://www.hon.ch/HONcode/Conduct_f.html?HONConduct298987">valide</a></td>
 <td style="width: 5.87165%;">santé</td>
 </tr>
 <tr style="height: 50px;">
@@ -932,7 +933,7 @@
 <p>Parmi les tops 20 des 4 types de jeu de requêtes, l'astérisque indique une sélection des auteurs de cette étude basée sur l'appartenance au site de santé, gouvernementaux ou encore académiques. En effet, dans un premier temps, les auteurs ont considérés les sites de type média non orientés santés, comme trop dynamiques et moins pertinents pour un suivi longitudinal (dans le temps). Les sites encyclopédiques pourraient très bien en théorie faire partie du réseau sur tout quand on considère le très bon positionnement de Wikipedia en général. Malheureusement, Wikipedia en l'occurrence qui offre ces analytiques Web ne permet pas d'identifier l'origine géographique de ses utilisateurs pour des raisons de confidentialités. </p>
 <p>Le HONcode qui peut être un indicateur de qualité, n'a pas été utilisé dans notre étude comme critère de sélection mais pourra être à considérer pour les sites Web faisant partie de ce réseau pour une adoption ou une mise à jour de leur conformité HONcode.</p>
 <p class="p1">Plutôt que de prendre arbitrairement les tops 20, il serait possible et pertinent d'effectuer la sélection des sites avec un seuil basé soit sur le pourcentage de présence (par exemple &gt;30%) ou soit la position moyenne pondérée (par exemple &lt;30).  </p>
-<p>La suite consiste donc à contacter ces sites Web pour savoir s'ils veulent faire partie de ce réseaux.</p>
+<p>Le plus difficile reste ensuite à faire ... contacter et motiver ces sites Web pour savoir s'ils veulent faire partie de ce réseau.</p>
 <p> </p>
 <p> </p>
 <p>Sensibilisation !! sélection des sites!!!</p>
