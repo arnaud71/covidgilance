@@ -3,12 +3,64 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-09-29T10:34:01+02:00</updated>
+    <updated>2020-09-29T11:05:10+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
+    <entry>
+        <title>Invitation mail à participer au projet et au réseau Covidgilance web Analytics Net</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/invitation-mail-a-participer-au-projet-et-au-reseau-covidgilance-web-analytics-net.html"/>
+        <id>https://covidgilance.org/invitation-mail-a-participer-au-projet-et-au-reseau-covidgilance-web-analytics-net.html</id>
+            <category term="blog"/>
+
+        <updated>2020-09-29T11:05:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Vous trouverez ci-après le mail qui a été envoyé aux différents contacts de site web de santé identifiés dans cette étude. Pour les sites Web ne disposant que d'un formulaire de contact merci de me recontacter pour le recevoir par email. Madame, Monsieur, Je suis&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vous trouverez ci-après le mail qui a été envoyé aux différents contacts de site web de santé identifiés dans <a href="https://covidgilance.org/les-meilleures-sites-web-pour-un-reseau-dalerte-covid.html">cette étude</a>. Pour les sites Web ne disposant que d'un formulaire de contact merci de me recontacter pour le recevoir par email.</p>
+<hr>
+<p>Madame, Monsieur,</p>
+<p>Je suis professeur en sciences de l’information à la haute école de Gestion de Genève et je supervise une étude (Covidgilance) concernant l’utilisation de signaux de Google Trends et de l’analytique Web pour essayer de mieux connaitre et d’anticiper les tendances de la dissémination du covid-19.</p>
+<p>Je vous propose de participer à ce projet en partageant avec nous votre analytique Web (les visites sur votre site Web, comme Google Analytique) et en faisant partie de notre réseau d’alerte appelé : Covidgilance web Analytics Net (CAN, voir figure 1).</p>
+<p>Notre hypothèse de recherche est que la mise en commun de ces informations peut nous permettre de mieux comprendre l’évolution dans le temps et dans l’espace de la dissémination du virus.</p>
+<p>Dans une de mes études, votre site Web apparait dans le TOP 20 des sites web trouvés par les internautes pour des requêtes liées aux signaux du coronavirus, ce qui indique un fort potentiel pour participer à notre étude et faire partie d’un réseau d’alertes. Les résultats de cette étude sont disponibles sous la forme d’un article de Blog sur <a href="https://covidgilance.org/les-meilleures-sites-web-pour-un-reseau-dalerte-covid.html">https://covidgilance.org/les-meilleures-sites-web-pour-un-reseau-dalerte-covid.html</a> . La totalité des résultats est aussi disponible sur un dépôt de données ouvertes <a href="https://zenodo.org/record/4048460#.X3G9xlngp25">https://zenodo.org/record/4048460#.X3G9xlngp25</a>.</p>
+<p>Le projet de recherche est décrit dans <a href="https://covidgilance.org/la-genese-2.html">https://covidgilance.org/la-genese-2.html</a> et la participation en tant que partenaire dans <a href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html">https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html</a>.  </p>
+<p>L’objectif est en effet de partager librement avec nous les données d’accès à certaines pages (de 1 à 20) de votre site Web (liées aux signaux covid-19). Nous avons besoin principalement du nombre de visites sur ces pages dans le temps et par localisation du visiteur (si disponible).</p>
+<p>Participer à cette étude, vous permettra de mieux comprendre l’interaction de vos visiteurs sur votre site Web pendant la pandémie et peut être apprendre quelques notions clés et état de l’art de la visibilité sur le Web. Suivant le succès de ce réseau d’alertes d’analytique Web, vous pourrez aussi bénéficier d’une visibilité grâce à la participation à un projet de recherche. À noter qu’aucune donnée personnelle ne sera explorée dans cette étude, seules les tendances de groupe nous intéressent. Les données provenant de votre site pourront aussi être anonymisées si besoin, cependant nous essaierons de motiver nos partenaires pour une participation transparente aux égards de l’Open Science et du modèle FAIR de la recherche.</p>
+<p>Suivant l’état de votre web analytique nous pouvons vous proposer gratuitement  de le mettre en place, de l’améliorer, de l’explorer, de le collecter via des API ou des exports réguliers. Il existe un réseau similaire appelé « the Vaccine Safety Net web Analytics project »  dans le domaine de la prévention pour la vaccination qui peut aussi aider à mieux comprendre notre démarche (<a href="https://doi.org/10.1016/j.vaccine.2020.07.070">https://doi.org/10.1016/j.vaccine.2020.07.070</a>).</p>
+<p> Je vous propose de me confirmer votre intérêt ou non, en répondant directement dans le corps de ce message aux 2 points suivants :</p>
+<p> * Intérêt A, B, C ou D ?</p>
+<p>A/ Je veux vivement y participer</p>
+<p>B/ Je veux y participer</p>
+<p>C/ Peut-être</p>
+<p>D/ Je ne veux pas y participer</p>
+<p> </p>
+<p>Si choix D (Pas d’intérêt), car :</p>
+<p>            D1/ je n’ai rien compris</p>
+<p>            D2/ je ne veux pas partager mon web analytique (comme Google Analytics)</p>
+<p>            D3/ je n’y crois pas</p>
+<p>             D4/ je n’aurais pas le temps</p>
+<p>             D5/ autres (merci de l’indiquer)  </p>
+<p>Je suis bien entendu disponible pour discuter des tenants et aboutissants de ce projet de recherche et je vous remercie déjà d’avoir lu jusqu’au bout ce long message.</p>
+<p> <img class="post__image" src="https://covidgilance.org/media/posts/17/Capture-decran-2020-09-28-a-15.00.37.jpg" alt="" width="3038" height="1798"></p>
+<p>Figure 1 :Covidgilance web Analytic Net (CAN)</p>
+<p>Meilleures salutations,</p>
+<p>Arnaud Gaudinat.</p>
+<p>______________________</p>
+<p>█ <a href="http://bitem.hesge.ch/content/arnaud-gaudinat">Arnaud Gaudinat</a>, @AGaudinat</p>
+<p>Professor in Information Science<br>HES-SO - <a href="https://www.hesge.ch/heg/">HEG Geneva</a> - B3.23<br>Geneva School of Business Administration<br>Tel +41 22 388 19 06 -  <a href="http://bitem.hesge.ch/">bitem.hesge.ch</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Les meilleures sites Web pour un réseau d&#x27;alertes analytique covid</title>
         <author>
