@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-10-08T17:51:40+02:00</updated>
+    <updated>2020-10-08T18:12:18+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -71,7 +71,7 @@
             <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-10-08T17:51:36+02:00</updated>
+        <updated>2020-10-08T18:12:11+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
@@ -84,7 +84,7 @@
                 <p class="msg msg--info">Durée de lecture : 9 mn</p>
 <h2>Objectif</h2>
 <p>L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur <a href="https://covidgilance.org/liste-des-signaux-etudies.html">les signaux covid</a>. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme  'Fièvre' dans Google. Les premiers résultats dans Google sont les sites les plus visités par les internautes. Dans le cadre de notre étude, les visites sur certaines pages de ces sites peuvent indiquer des signaux complémentaires aux tendances de Google (<a href="#non-existing-post-with-id-7">voir méthodologie</a>).  Ainsi réussir à créer un réseau d'alertes sur le Web qui utilise les visites de pages qui correspondent à des signaux peut s'avérer pertinent (mais reste à démontrer).</p>
-<p>Les datasets sont disponibles en entier sur le dépôt de données de recherche <span style="background-color: rgba(16, 137, 255, 0.55);">Zenodo </span>(<a>n2t.net/ark:/68061/g21335</a>). </p>
+<p>Les datasets sont disponibles en entier sur le dépôt de données de recherche <span style="background-color: rgba(16, 137, 255, 0.55);">Zenodo </span>(<a href="https://n2t.net/ark:/68061/g21335"></a><a href="https://n2t.net/ark:/68061/g21335">n2t.net/ark:/68061/g21335</a>). </p>
 <h2>Méthodes</h2>
 <p>Les tableaux de 1 à 4 présentent les résultats des 20 premières positions (top 20) dans Google de 4 types de liste de requêtes. Les tables 1 et 2 présentent les résultats en <strong>français</strong> pour Google Suisse depuis la région de Genève (IP dans le canton de Genève) et  les tables 3 et 4 présentent les résultats en anglais pour Google monde (google.com) depuis les États-Unis. Les tables 1 et 3 présentent des résultats pour des requêtes dans Google à partir de signaux simples (fièvre, toux, douleur du thorax, etc.) sans les termes 'covid' et 'coronavirus', alors que les tables 2 et 4 présentent  des résultats pour des requêtes 'amplifiées' par les termes 'covid' et 'coronavirus' pour chaque signal simple (fièvre covid, fièvre coronavirus, toux covid, toux coronavirus, etc.).</p>
 <p>Seuls les 20 premiers résultats des moteurs de recherches sont retournés par notre système. Cependant, il est à noter que bien souvent Google retourne plus de 20 résultats pour un top 20, notamment avec les encadrés (extraits optimisés) et les réponses aux questions au début de la page de résultats, voir figure 1. Les nombres et flèches en rouge indiquent les positions considérées (au sens du SEO) dans le cadre de notre étude pour les résultats naturels (dit organiques et donc non publicitaires). </p>
@@ -323,6 +323,7 @@
 </tr>
 </tbody>
 </table>
+<p>Le dataset au complet :  <a href="https://n2t.net/ark:/68061/g2w92m">https://n2t.net/ark:/68061/g2w92m</a></p>
 <h3>Signaux amplifiés pour les sites suisses francophones</h3>
 <p>Pour une liste de 50 requêtes, 164 sites Web différents ont été identifiés mais seul le top 20 est ici considéré (table 2). Le site Web le mieux positionné est <em>'www.bag.admin.ch'</em> car il a obtenu une position moyenne pondérée de 14.6 et est présent dans 78% des résultats de recherche. Le second site a déjà une position moyenne pondéré de 21.8 et une présence de 62% dans les différents résultats de recherche.</p>
 <ul>
@@ -542,6 +543,7 @@
 </tr>
 </tbody>
 </table>
+<p>Le dataset au complet :  <a href="https://n2t.net/ark:/68061/g2rk8d">https://n2t.net/ark:/68061/g2rk8d</a></p>
 <h3>Signaux simples pour les sites US anglophones</h3>
 <p>Pour une liste de 17 requêtes, 139 sites Web différents ont été identifiés mais seul le top 20 est ici considéré (table 3). Le site Web le mieux positionné est <em>'www.healthline.com'</em> car il a obtenu une position moyenne pondérée de 7 et est présent dans 94% des résultats de recherche. Le second site est très proche avec une position moyenne pondéré de 7.3 et une présence de 94% dans les différents résultats de recherche.</p>
 <ul>
@@ -760,6 +762,7 @@
 </tr>
 </tbody>
 </table>
+<p>Le dataset au complet :  <a href="https://n2t.net/ark:/68061/g2ms7v">https://n2t.net/ark:/68061/g2ms7v</a></p>
 <h3>Signaux amplifiés pour les sites US anglophones</h3>
 <p>Pour une liste de 37 requêtes, 209 sites Web différents ont été identifiés mais seul le top 20 est ici considéré (table 4). Le site Web le mieux positionné est <em><strong>'www.cdc.gov'</strong></em> car il a obtenu une position moyenne pondérée de <strong>5.4</strong> et est présent dans <strong>95%</strong> des résultats de recherche. Le second site  à déjà une position moyenne pondéré de 13.8 et une présence de 78% dans les différents résultats de recherche.</p>
 <ul>
@@ -980,6 +983,7 @@
 </tr>
 </tbody>
 </table>
+<p>Le dataset au complet :  <a href="https://n2t.net/ark:/68061/g2h34w">https://n2t.net/ark:/68061/g2h34w</a></p>
 <h2>Discussion</h2>
 <p>La méthode présentée dans cette étude a permis d'obtenir une liste de sites Web qui sont les plus visibles (top 20) pour des requêtes qui correspondent aux signaux du Covid. Parmi ses résultats qui semblent pertinents, la plupart proviennent de sites de santé mais aussi de sites gouvernementaux qui font références. </p>
 <p>Parmi les tops 20 des 4 types de jeu de requêtes, l'astérisque indique une sélection des auteurs de cette étude basée sur l'appartenance au site de santé, gouvernementaux ou encore académiques. En effet, dans un premier temps, les auteurs ont considérés les sites de type média non orientés santés, comme trop dynamiques et moins pertinents pour un suivi longitudinal (dans le temps). Les sites encyclopédiques pourraient très bien en théorie faire partie du réseau surtout quand on considère le très bon positionnement de Wikipedia en général. Malheureusement, Wikipedia en l'occurrence qui offre ces analytiques Web ne permet pas d'identifier l'origine géographique de ses utilisateurs pour des raisons de confidentialités. </p>
