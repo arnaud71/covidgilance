@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-10-08T17:47:05+02:00</updated>
+    <updated>2020-10-08T17:49:22+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -71,7 +71,7 @@
             <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-10-08T17:46:58+02:00</updated>
+        <updated>2020-10-08T17:49:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
@@ -84,7 +84,7 @@
                 <p class="msg msg--info">Durée de lecture : 9 mn</p>
 <h2>Objectif</h2>
 <p>L'objectif est d'identifier les sites qui ont le plus de chance d'être utilisés par les internautes lorsqu'ils recherchent des informations sur <a href="https://covidgilance.org/liste-des-signaux-etudies.html">les signaux covid</a>. Pour simplifier, vous avez de la fièvre, donc vous allez chercher le terme  'Fièvre' dans Google. Les premiers résultats dans Google sont les sites les plus visités par les internautes. Dans le cadre de notre étude, les visites sur certaines pages de ces sites peuvent indiquer des signaux complémentaires aux tendances de Google (<a href="#non-existing-post-with-id-7">voir méthodologie</a>).  Ainsi réussir à créer un réseau d'alertes sur le Web qui utilise les visites de pages qui correspondent à des signaux peut s'avérer pertinent (mais reste à démontrer).</p>
-<p>Les datasets sont disponibles en entier sur le dépôt de données de recherche <span style="background-color: rgba(16, 137, 255, 0.55);">Zenodo </span>(<a href="#INTERNAL_LINK#/post/null">n2t.net/ark:/68061/g21335</a>). </p>
+<p>Les datasets sont disponibles en entier sur le dépôt de données de recherche <span style="background-color: rgba(16, 137, 255, 0.55);">Zenodo </span>(<a>n2t.net/ark:/68061/g21335</a>). </p>
 <h2>Méthodes</h2>
 <p>Les tableaux de 1 à 4 présentent les résultats des 20 premières positions (top 20) dans Google de 4 types de liste de requêtes. Les tables 1 et 2 présentent les résultats en <strong>français</strong> pour Google Suisse depuis la région de Genève (IP dans le canton de Genève) et  les tables 3 et 4 présentent les résultats en anglais pour Google monde (google.com) depuis les États-Unis. Les tables 1 et 3 présentent des résultats pour des requêtes dans Google à partir de signaux simples (fièvre, toux, douleur du thorax, etc.) sans les termes 'covid' et 'coronavirus', alors que les tables 2 et 4 présentent  des résultats pour des requêtes 'amplifiées' par les termes 'covid' et 'coronavirus' pour chaque signal simple (fièvre covid, fièvre coronavirus, toux covid, toux coronavirus, etc.).</p>
 <p>Seuls les 20 premiers résultats des moteurs de recherches sont retournés par notre système. Cependant, il est à noter que bien souvent Google retourne plus de 20 résultats pour un top 20, notamment avec les encadrés (extraits optimisés) et les réponses aux questions au début de la page de résultats, voir figure 1. Les nombres et flèches en rouge indiquent les positions considérées (au sens du SEO) dans le cadre de notre étude pour les résultats naturels (dit organiques et donc non publicitaires). </p>
