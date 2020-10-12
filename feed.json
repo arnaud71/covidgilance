@@ -20,11 +20,10 @@
                 "name": "Arnaud Gaudinat"
             },
             "tags": [
-                   "page",
-                   "blog"
+                   "article"
             ],
             "date_published": "2020-10-12T10:51:34+02:00",
-            "date_modified": "2020-10-12T16:57:47+02:00"
+            "date_modified": "2020-10-12T17:58:25+02:00"
         },
         {
             "id": "https://covidgilance.org/invitation-mail-a-participer-au-projet-et-au-reseau-covidgilance-web-analytics-net.html",
@@ -36,10 +35,10 @@
                 "name": "Arnaud Gaudinat"
             },
             "tags": [
-                   "blog"
+                   "article"
             ],
             "date_published": "2020-09-29T11:00:03+02:00",
-            "date_modified": "2020-10-12T13:03:10+02:00"
+            "date_modified": "2020-10-12T17:58:11+02:00"
         },
         {
             "id": "https://covidgilance.org/les-meilleures-sites-web-pour-un-reseau-dalerte-covid.html",
@@ -52,11 +51,10 @@
                 "name": "Arnaud Gaudinat"
             },
             "tags": [
-                   "blog",
                    "article"
             ],
             "date_published": "2020-09-18T10:54:13+02:00",
-            "date_modified": "2020-10-12T13:03:21+02:00"
+            "date_modified": "2020-10-12T17:58:35+02:00"
         },
         {
             "id": "https://covidgilance.org/liste-des-signaux-etudies.html",
@@ -69,10 +67,10 @@
                 "name": "Arnaud Gaudinat"
             },
             "tags": [
-                   "blog"
+                   "article"
             ],
             "date_published": "2020-09-11T14:05:16+02:00",
-            "date_modified": "2020-09-21T14:38:49+02:00"
+            "date_modified": "2020-10-12T17:58:54+02:00"
         },
         {
             "id": "https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html",
@@ -85,10 +83,10 @@
                 "name": "Arnaud Gaudinat"
             },
             "tags": [
-                   "blog"
+                   "article"
             ],
             "date_published": "2020-06-10T22:36:00+02:00",
-            "date_modified": "2020-09-14T12:28:03+02:00"
+            "date_modified": "2020-10-12T17:59:05+02:00"
         },
         {
             "id": "https://covidgilance.org/calendrier.html",
@@ -145,10 +143,10 @@
                 "name": "Arnaud Gaudinat"
             },
             "tags": [
-                   "blog"
+                   "article"
             ],
             "date_published": "2020-06-09T14:51:23+02:00",
-            "date_modified": "2020-09-29T10:33:56+02:00"
+            "date_modified": "2020-10-12T17:59:34+02:00"
         },
         {
             "id": "https://covidgilance.org/la-genese-2.html",
@@ -161,10 +159,10 @@
                 "name": "Arnaud Gaudinat"
             },
             "tags": [
-                   "blog"
+                   "article"
             ],
             "date_published": "2020-06-09T13:43:39+02:00",
-            "date_modified": "2020-09-21T14:43:31+02:00"
+            "date_modified": "2020-10-12T17:59:51+02:00"
         }
     ]
 }

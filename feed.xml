@@ -3,7 +3,7 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-10-12T17:51:58+02:00</updated>
+    <updated>2020-10-12T18:01:20+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -16,10 +16,9 @@
         </author>
         <link href="https://covidgilance.org/400-symptomes-selon-google-trends-en-acces-direct-pour-etudier-le-coronavirus.html"/>
         <id>https://covidgilance.org/400-symptomes-selon-google-trends-en-acces-direct-pour-etudier-le-coronavirus.html</id>
-            <category term="page"/>
-            <category term="blog"/>
+            <category term="article"/>
 
-        <updated>2020-10-12T16:57:47+02:00</updated>
+        <updated>2020-10-12T17:58:25+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/18/fever-2x.gif" alt="400 symptômes selon Google Trends en accès direct pour étudier le coronavirus" />
@@ -48,9 +47,9 @@
         </author>
         <link href="https://covidgilance.org/invitation-mail-a-participer-au-projet-et-au-reseau-covidgilance-web-analytics-net.html"/>
         <id>https://covidgilance.org/invitation-mail-a-participer-au-projet-et-au-reseau-covidgilance-web-analytics-net.html</id>
-            <category term="blog"/>
+            <category term="article"/>
 
-        <updated>2020-10-12T13:03:10+02:00</updated>
+        <updated>2020-10-12T17:58:11+02:00</updated>
             <summary>
                 <![CDATA[
                     Vous trouverez ci-après le mail qui a été envoyé aux différents contacts de site web de santé identifiés dans cette étude. Pour les sites Web ne disposant que d'un formulaire de contact merci de me recontacter pour le recevoir par email. Madame, Monsieur, Je suis&hellip;
@@ -100,10 +99,9 @@
         </author>
         <link href="https://covidgilance.org/les-meilleures-sites-web-pour-un-reseau-dalerte-covid.html"/>
         <id>https://covidgilance.org/les-meilleures-sites-web-pour-un-reseau-dalerte-covid.html</id>
-            <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-10-12T13:03:21+02:00</updated>
+        <updated>2020-10-12T17:58:35+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
@@ -1033,9 +1031,9 @@
         </author>
         <link href="https://covidgilance.org/liste-des-signaux-etudies.html"/>
         <id>https://covidgilance.org/liste-des-signaux-etudies.html</id>
-            <category term="blog"/>
+            <category term="article"/>
 
-        <updated>2020-09-21T14:38:49+02:00</updated>
+        <updated>2020-10-12T17:58:54+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/15/Capture-decran-2020-09-11-a-22.19.03.jpg" alt="" />
@@ -1235,9 +1233,9 @@
         </author>
         <link href="https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html"/>
         <id>https://covidgilance.org/le-coronavirus-circulait-deja-a-wuhan-des-octobre-2019-selon-luniversite-de-harvard.html</id>
-            <category term="blog"/>
+            <category term="article"/>
 
-        <updated>2020-09-14T12:28:03+02:00</updated>
+        <updated>2020-10-12T17:59:05+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/14/clay-banks-U0-r0JMypE0-unsplash.jpg" alt="" />
@@ -1377,9 +1375,9 @@
         </author>
         <link href="https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html"/>
         <id>https://covidgilance.org/appel-a-participation-aupres-des-sites-de-santes.html</id>
-            <category term="blog"/>
+            <category term="article"/>
 
-        <updated>2020-09-29T10:33:56+02:00</updated>
+        <updated>2020-10-12T17:59:34+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/10/nasa-Q1p7bh3SHj8-unsplash.jpg" alt="Image illustrative de la NASA de l&#x27;activité lumineuse sur la terre " />
@@ -1442,9 +1440,9 @@
         </author>
         <link href="https://covidgilance.org/la-genese-2.html"/>
         <id>https://covidgilance.org/la-genese-2.html</id>
-            <category term="blog"/>
+            <category term="article"/>
 
-        <updated>2020-09-21T14:43:31+02:00</updated>
+        <updated>2020-10-12T17:59:51+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/9/ben-o-bro-87oQ_cUO1Ns-unsplash.jpg" alt="image illustrative des feux d&#x27;artifices sur le lac de Genève depuis les toits " />
