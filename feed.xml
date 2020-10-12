@@ -3,14 +3,14 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-10-12T13:14:15+02:00</updated>
+    <updated>2020-10-12T13:19:34+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
     <entry>
-        <title>400 symptômes selon Google Trends en accès direct  pour étudier le coronavirus</title>
+        <title>400 symptômes selon Google Trends en accès direct pour étudier le coronavirus</title>
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
@@ -19,16 +19,16 @@
             <category term="page"/>
             <category term="blog"/>
 
-        <updated>2020-10-12T13:14:10+02:00</updated>
+        <updated>2020-10-12T13:18:31+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://covidgilance.org/media/posts/18/fever-2x.gif" alt="" />
+                        <img src="https://covidgilance.org/media/posts/18/fever-2x.gif" alt="400 symptômes selon Google Trends en accès direct pour étudier le coronavirus" />
                     Durée de lecture : 1 mn Google a décidé de faciliter l'exploration des données de Google Trends en offrant directement un accès journalier et hebdomadaire aux requêtes d'internautes sur plus de 400 symptômes. Dans la même veine que Covidgilance, l'idée est d'offrir la possibilité d'explorer&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://covidgilance.org/media/posts/18/fever-2x.gif" alt="" />
+                    <img src="https://covidgilance.org/media/posts/18/fever-2x.gif" alt="400 symptômes selon Google Trends en accès direct pour étudier le coronavirus" />
                 <p class="msg msg--info">Durée de lecture : 1 mn</p>
 <p>Google a décidé de faciliter l'exploration des données de Google Trends en offrant directement <a href="https://blog.google/technology/health/using-symptoms-search-trends-inform-covid-19-research">un accès journalier et hebdomadaire</a> aux requêtes d'internautes sur plus de 400 symptômes. Dans la même veine que Covidgilance, l'idée est d'offrir la possibilité d'explorer les requêtes de internautes pendant la pandémie sans à priori sur les symptômes pertinents.  C'est globalement une bonne nouvelle, car cette offre permet d'éviter d'utiliser des API non officiels pour récupérer ces données qui ne disposent toujours pas d'accès automatisés de la part de Google. Sur 400 symptômes, on retrouve bien évidemment en premier lieu la Fièvre et les autres signaux étudiés dans le cadre de Covidgilance.</p>
 <p>Disponible pour le moment pour la zone géographique US, il semblerait que les autres régions du monde soient disponibles aussi prochainement. Nous allons bientôt explorer ces données pour savoir si elles sont plus précises que celles que nous récupérons automatiquement sur Google Trends. Nous espérons que ce soit le cas, car l'échantillonnage réalisé par Google limite grandement l'intérêt de l'approche surtout pour des analyses dans des zones géographiques plus petites comme les cantons ou voir même des pays comme la Suisse.</p>
