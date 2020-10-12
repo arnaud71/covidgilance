@@ -3,12 +3,44 @@
     <title>Covidgilance</title>
     <link href="https://covidgilance.org/feed.xml" rel="self" />
     <link href="https://covidgilance.org" />
-    <updated>2020-10-12T09:57:05+02:00</updated>
+    <updated>2020-10-12T13:14:15+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://covidgilance.org</id>
 
+    <entry>
+        <title>400 symptômes selon Google Trends en accès direct  pour étudier le coronavirus</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://covidgilance.org/400-symptomes-selon-google-trends-en-acces-direct-pour-etudier-le-coronavirus.html"/>
+        <id>https://covidgilance.org/400-symptomes-selon-google-trends-en-acces-direct-pour-etudier-le-coronavirus.html</id>
+            <category term="page"/>
+            <category term="blog"/>
+
+        <updated>2020-10-12T13:14:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://covidgilance.org/media/posts/18/fever-2x.gif" alt="" />
+                    Durée de lecture : 1 mn Google a décidé de faciliter l'exploration des données de Google Trends en offrant directement un accès journalier et hebdomadaire aux requêtes d'internautes sur plus de 400 symptômes. Dans la même veine que Covidgilance, l'idée est d'offrir la possibilité d'explorer&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://covidgilance.org/media/posts/18/fever-2x.gif" alt="" />
+                <p class="msg msg--info">Durée de lecture : 1 mn</p>
+<p>Google a décidé de faciliter l'exploration des données de Google Trends en offrant directement <a href="https://blog.google/technology/health/using-symptoms-search-trends-inform-covid-19-research">un accès journalier et hebdomadaire</a> aux requêtes d'internautes sur plus de 400 symptômes. Dans la même veine que Covidgilance, l'idée est d'offrir la possibilité d'explorer les requêtes de internautes pendant la pandémie sans à priori sur les symptômes pertinents.  C'est globalement une bonne nouvelle, car cette offre permet d'éviter d'utiliser des API non officiels pour récupérer ces données qui ne disposent toujours pas d'accès automatisés de la part de Google. Sur 400 symptômes, on retrouve bien évidemment en premier lieu la Fièvre et les autres signaux étudiés dans le cadre de Covidgilance.</p>
+<p>Disponible pour le moment pour la zone géographique US, il semblerait que les autres régions du monde soient disponibles aussi prochainement. Nous allons bientôt explorer ces données pour savoir si elles sont plus précises que celles que nous récupérons automatiquement sur Google Trends. Nous espérons que ce soit le cas, car l'échantillonnage réalisé par Google limite grandement l'intérêt de l'approche surtout pour des analyses dans des zones géographiques plus petites comme les cantons ou voir même des pays comme la Suisse.</p>
+<p>Avec 400 symptômes en accès publiques (voir figure 1), Google nous facilite grandement la possibilité d'étudier d'autres évènements réguliers, croissants et décroissants, pertinents pour la santé publique, ou encore de nouvelles crises en devenir qui pourrait être détectées en amont. </p>
+<figure class="post__image" ><img src="https://covidgilance.org/media/posts/18/Capture-decran-2020-10-12-a-11.30.46.jpg" alt="Quelques trends de symptôme de Google parmi les 400 " width="2614" height="1730">
+<figcaption >Figure 1: Quelques trends de symptôme de Google parmi les 400 (source Google)</figcaption>
+</figure>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Invitation mail à participer au projet et au réseau Covidgilance web Analytics Net</title>
         <author>
@@ -18,7 +50,7 @@
         <id>https://covidgilance.org/invitation-mail-a-participer-au-projet-et-au-reseau-covidgilance-web-analytics-net.html</id>
             <category term="blog"/>
 
-        <updated>2020-09-29T11:05:06+02:00</updated>
+        <updated>2020-10-12T13:03:10+02:00</updated>
             <summary>
                 <![CDATA[
                     Vous trouverez ci-après le mail qui a été envoyé aux différents contacts de site web de santé identifiés dans cette étude. Pour les sites Web ne disposant que d'un formulaire de contact merci de me recontacter pour le recevoir par email. Madame, Monsieur, Je suis&hellip;
@@ -71,7 +103,7 @@
             <category term="blog"/>
             <category term="article"/>
 
-        <updated>2020-10-09T14:00:48+02:00</updated>
+        <updated>2020-10-12T13:03:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://covidgilance.org/media/posts/16/nicolas-picard-lp8sTmF9HA-unsplash.jpg" alt="" />
@@ -1483,28 +1515,6 @@
 <li>Arora, V. S., McKee, M., &amp; Stuckler, D. (2019). Google Trends: opportunities and limitations in health and health policy research. Health Policy, 123(3), 338-341. </li>
 <li>Brigo, F., Igwe, S. C., Nardone, R., Lochner, P., Tezzon, F., &amp; Otte, W. M. (2015). Wikipedia and neurological disorders. Journal of clinical neuroscience, 22(7), 1170-1172. </li>
 </ol>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Arnaud Gaudinat</name>
-        </author>
-        <link href="https://covidgilance.org/contact.html"/>
-        <id>https://covidgilance.org/contact.html</id>
-
-        <updated>2020-06-10T10:53:12+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://covidgilance.org/media/posts/2/natalie-pedigo-wJK9eTiEZHY-unsplash.jpg" alt="" />
-                    [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591646482591,"type":"publii-list","content":"Gaudinat Arnaud est professeur associé en science de l’information depuis 2016 à la HEG Genève. Il enseigne la webométrie et réalise des recherches sur le Web à partir de méthodes de Web Mining. Ceci, lui permet de collecter des données originales et d’allier analyse de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://covidgilance.org/media/posts/2/natalie-pedigo-wJK9eTiEZHY-unsplash.jpg" alt="" />
-                [{"id":1591284720834,"type":"publii-header","content":"L'équipe","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"lquipe"}}},{"id":1591646482591,"type":"publii-list","content":"<li><strong>Gaudinat Arnaud </strong>est professeur associé en science de l’information depuis 2016 à la HEG Genève. Il enseigne la webométrie et réalise des recherches sur le Web à partir de méthodes de Web Mining. Ceci, lui permet de collecter des données originales et d’allier analyse de données structurées et non structurés pour l’aide à la décision éclairée. Auparavant, il a oeuvré pendant 10 ans dans l’information médicale au sein de la fondation Health On the Net.</li><li><strong>Berger Bastien</strong>, est assistant HES à la HEG. Titulaire d’un bachelor en science informatique de l’université de Genève, il accompagne depuis plus de 4 ans le professeur A. Gaudinat dans ses recherches et notamment dans le Web mining de données massives.<br></li><li><b>Lebrun Christophe</b>, est collaborateur scientifique et data scientist à la HEG. Il développe actuellement des approches automatiques originales pour explorer le Web à la découverte d’échantillon de populations types pour répondre à des enquêtes. Il est titulaire du master en data science et machine learning CentraleSupélec.<br></li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1591731767174,"type":"publii-paragraph","content":"<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591284754080,"type":"publii-header","content":"Contact","config":{"headingLevel":2,"textAlign":"left","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","customId":false,"id":"contact"}}},{"id":1591284756791,"type":"publii-paragraph","content":"email : arnaud.gaudinat@hesge.ch&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1591646616149,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
